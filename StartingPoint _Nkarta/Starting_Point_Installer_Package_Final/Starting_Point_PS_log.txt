@@ -1,0 +1,780 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20220204092741
+Username: NOVICK\shelby
+RunAs User: NOVICK\shelby
+Configuration Name: 
+Machine: SHELBY-T490 (Microsoft Windows NT 10.0.19043.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -ExecutionPolicy Unrestricted -File C:\Users\shelby\OneDrive - Novick Tech\Scripts\Powershell\StartingPoint _Nkarta\Starting_Point_Installer_Package_Final\/DO_NOT_RUN.ps1 
+Process ID: 13832
+PSVersion: 5.1.19041.1320
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.1320
+BuildVersion: 10.0.19041.1320
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\shelby\OneDrive - Novick Tech\Scripts\Powershell\StartingPoint _Nkarta\Starting_Point_Installer_Package_Final\Starting_Point_PS_log.txt
+VERBOSE: Preparing to expand...
+VERBOSE: Performing the operation "Expand-Archive" on target "C:\Users\shelby\OneDrive - Novick Tech\Scripts\Powershell\StartingPoint _Nkarta\Starting_Point_Installer_Package_Final\StartingPoint_v5.6.1_IND.zip".
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Documentation\StartingPoint Document Information Fields List.xlsx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Documentation\StartingPoint Document Information Fields List.xlsx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Documentation\StartingPoint v5.6.1 IND Template List.pdf".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Documentation\StartingPoint v5.6.1 IND Template List.pdf'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Documentation\StartingPoint v5.6.1 Release Notes.pdf".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Documentation\StartingPoint v5.6.1 Release Notes.pdf'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Documentation\Training\Annotated Exercise Document.pdf".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Documentation\Training\Annotated Exercise Document.pdf'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Documentation\Training\Sample Exercise Text.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Documentation\Training\Sample Exercise Text.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Documentation\Training\StartingPoint Training Exercises.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Documentation\Training\StartingPoint Training Exercises.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Documentation\Training\StartingPoint Training Slides.pdf".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Documentation\Training\StartingPoint Training Slides.pdf'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Documentation\Training\StartingPoint Training Slides.pptx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Documentation\Training\StartingPoint Training Slides.pptx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Documentation\Training\StartingPointBlank.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Documentation\Training\StartingPointBlank.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Documentation\Training\Validation Example.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Documentation\Training\Validation Example.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\StartingPoint Quick Install Guide.pdf".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\StartingPoint Quick Install Guide.pdf'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Author.dotm".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Author.dotm'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.11.1 Quality Information Amendment.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.11.1 Quality Information Amendment.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.11.2 Nonclinical  Information Amendment.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.11.2 Nonclinical  Information Amendment.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.11.3 Clinical  Information Amendment.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.11.3 Clinical  Information Amendment.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.11.4 Multiple Module Information Amendment.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.11.4 Multiple Module Information Amendment.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.12.1 Pre-IND Correspondence.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.12.1 Pre-IND Correspondence.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.12.14 Environmental Assessment - Categorical Exclusion.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.12.14 Environmental Assessment - Categorical Exclusion.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.12.14 Environmental Assessment.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.12.14 Environmental Assessment.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.12.17 Orphan Drug Designation.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.12.17 Orphan Drug Designation.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.12.2 Request to Charge for Clinical Trial.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.12.2 Request to Charge for Clinical Trial.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.12.3 Request to Charge for Expanded Access.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.12.3 Request to Charge for Expanded Access.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.12.5 Request for a Waiver.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.12.5 Request for a Waiver.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.12.6 Exemption from Informed Consent for Emergency Research.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.12.6 Exemption from Informed Consent for Emergency Research.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.12.7 Public Disclosure Statement for Exemption from Informed Consent for Emergency Research.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.12.7 Public Disclosure Statement for Exemption from Informed Consent for Emergency Research.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.12.8 Correspondence Regarding Exemption from Informed Consent for Emergency Research.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.12.8 Correspondence Regarding Exemption from Informed Consent for Emergency Research.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.13.1 Summary for Nonclinical Studies - IND Annual Report.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.13.1 Summary for Nonclinical Studies - IND Annual Report.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.13.10 Foreign Marketing.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.13.10 Foreign Marketing.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.13.14 Log of Outstanding Regulatory Business - IND Annual Report.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.13.14 Log of Outstanding Regulatory Business - IND Annual Report.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.13.15 Development Safety Update Report (DSUR).docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.13.15 Development Safety Update Report (DSUR).docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.13.2 Summary for Clinical Pharmacology Information - IND Annual Report.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.13.2 Summary for Clinical Pharmacology Information - IND Annual Report.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.13.3 Summary of Safety Information - IND Annual Report.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.13.3 Summary of Safety Information - IND Annual Report.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.13.5 Summary of Manufacturing Changes - IND Annual Report.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.13.5 Summary of Manufacturing Changes - IND Annual Report.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.13.8 Individual Study Information.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.13.8 Individual Study Information.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.13.9 General Investigational Plan.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.13.9 General Investigational Plan.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.14.4.1 Investigator's Brochure.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.14.4.1 Investigator's Brochure.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.14.4.2 Investigational Drug Labeling.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.14.4.2 Investigational Drug Labeling.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.19 Emergency Use Authorization.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.19 Emergency Use Authorization.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.2 Cover letter-Initial IND application.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.2 Cover letter-Initial IND application.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.20 General Investigational Plan for Initial IND.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.20 General Investigational Plan for Initial IND.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.3.1.1 Change of Address.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.3.1.1 Change of Address.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.3.1.2 Change of Contact Agent.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.3.1.2 Change of Contact Agent.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.3.1.3 Change of Sponsor.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.3.1.3 Change of Sponsor.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.3.1.4 Transfer of Obligation.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.3.1.4 Transfer of Obligation.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.3.1.5 Change in Ownership of an Application or Reissuance of License.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.3.1.5 Change in Ownership of an Application or Reissuance of License.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.4.1 Letter of Authorization_Placeholder.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.4.1 Letter of Authorization_Placeholder.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.4.2 Statement of Right of Reference_Placeholder.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.4.2 Statement of Right of Reference_Placeholder.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.4.4 Cross-reference to Previously Submitted Information.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.4.4 Cross-reference to Previously Submitted Information.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.5.1 Withdrawal of IND.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.5.1 Withdrawal of IND.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.5.2 Inactivation Request.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.5.2 Inactivation Request.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.5.3 Reactivation Request.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.5.3 Reactivation Request.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.6.1 Meeting Request.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.6.1 Meeting Request.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.6.1 Meeting Request_Biosimilar_Biologics.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.6.1 Meeting Request_Biosimilar_Biologics.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.6.2 Meeting Package_Biosimilar_Biologics.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.6.2 Meeting Package_Biosimilar_Biologics.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.6.2 Pre-IND Meeting Background Materials.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.6.2 Pre-IND Meeting Background Materials.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.6.3 Correspondence Regarding Meetings.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.6.3 Correspondence Regarding Meetings.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.7.1 Fast Track Designation.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.7.1 Fast Track Designation.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.8.1 Special Protocol Assessment Request_Clinical Study.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.8.1 Special Protocol Assessment Request_Clinical Study.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.8.2 Special Protocol Assessment_Carcinogenicity Study.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.8.2 Special Protocol Assessment_Carcinogenicity Study.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.8.2 Special Protocol Assessment_Carcinogenicity_ Intent Notice.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.8.2 Special Protocol Assessment_Carcinogenicity_ Intent Notice.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.8.3 Special Protocol Assessment Request_Stability Study.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\1.8.3 Special Protocol Assessment Request_Stability Study.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\Breakthrough Therapy Designation.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\Breakthrough Therapy Designation.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\Phase I Protocol Modifications - IND Annual Report_Placeholder.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\Phase I Protocol Modifications - IND Annual Report_Placeholder.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\Priority Review Designation Request.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\Priority Review Designation Request.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\Rare Pediatric Disease Designation Application.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\Rare Pediatric Disease Designation Application.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\StartingPointBlank.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\StartingPointBlank.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\Target Product Profile.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 1 US\Target Product Profile.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.2 Introduction to Summary - IND.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.2 Introduction to Summary - IND.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.2 Introduction to Summary.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.2 Introduction to Summary.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3 Introduction to the Quality Overall Summary.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3 Introduction to the Quality Overall Summary.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.A Appendices Non-granular.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.A Appendices Non-granular.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.A.1 Facilities and Equipment.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.A.1 Facilities and Equipment.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.A.2 Adventitious Agents Safety Evaluation.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.A.2 Adventitious Agents Safety Evaluation.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.A.3 Novel Excipients.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.A.3 Novel Excipients.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.P Drug Product Non-granular.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.P Drug Product Non-granular.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.P.1 Description and Composition of the Drug Product.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.P.1 Description and Composition of the Drug Product.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.P.2 Pharmaceutical Development.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.P.2 Pharmaceutical Development.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.P.3 Manufacture.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.P.3 Manufacture.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.P.4 Control of Excipients.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.P.4 Control of Excipients.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.P.5 Control of Drug Product.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.P.5 Control of Drug Product.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.P.6 Reference Standards or Materials.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.P.6 Reference Standards or Materials.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.P.7 Container Closure System.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.P.7 Container Closure System.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.P.8 Stability.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.P.8 Stability.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.R Regional Information.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.R Regional Information.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.S Drug Substance Non-granular.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.S Drug Substance Non-granular.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.S.1 General Information.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.S.1 General Information.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.S.2 Manufacture.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.S.2 Manufacture.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.S.2 Manufacturer.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.S.2 Manufacturer.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.S.3 Characterization.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.S.3 Characterization.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.S.4 Control of Drug Substance.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.S.4 Control of Drug Substance.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.S.5 Reference Standards or Materials.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.S.5 Reference Standards or Materials.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.S.6 Container Closure System.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.S.6 Container Closure System.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.S.7 Stability.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.3.S.7 Stability.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.4 Nonclinical Overview.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.4 Nonclinical Overview.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.5 Clinical Overview.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.5 Clinical Overview.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.6.1 Introduction.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.6.1 Introduction.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.6.2 Pharmacology Written Summary.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.6.2 Pharmacology Written Summary.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.6.3 Pharmacology Tabulated Summary.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.6.3 Pharmacology Tabulated Summary.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.6.4 Pharmacokinetics Written Summary.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.6.4 Pharmacokinetics Written Summary.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.6.5 Pharmacokinetics Tabulated Summary.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.6.5 Pharmacokinetics Tabulated Summary.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.6.6 Toxicology Written Summary.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.6.6 Toxicology Written Summary.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.6.7 Toxicology Tabulated Summary.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.6.7 Toxicology Tabulated Summary.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.7.1 Summary of Biopharmaceutic Studies and Associated Analytical Methods.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.7.1 Summary of Biopharmaceutic Studies and Associated Analytical Methods.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.7.2 Summary of Clinical Pharmacology Studies.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.7.2 Summary of Clinical Pharmacology Studies.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.7.3 Summary of Clinical Efficacy.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.7.3 Summary of Clinical Efficacy.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.7.4 Summary of Clinical Safety.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.7.4 Summary of Clinical Safety.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.7.5 References.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.7.5 References.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.7.6 Synopses of Individual Studies.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\2.7.6 Synopses of Individual Studies.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\StartingPointBlank.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 2 Summaries\StartingPointBlank.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\.Module 3 Granularity Instructions.txt".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\.Module 3 Granularity Instructions.txt'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.A.1 Facilities and Equipment.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.A.1 Facilities and Equipment.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.A.2 Adventitious Agents Safety Evaluation.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.A.2 Adventitious Agents Safety Evaluation.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.A.3 Excipients.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.A.3 Excipients.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.1 Description and Composition of the Drug Product Non-granular.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.1 Description and Composition of the Drug Product Non-granular.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.2 Pharmaceutical Development QbD-IR.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.2 Pharmaceutical Development QbD-IR.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.2 Pharmaceutical Development QbD-MR.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.2 Pharmaceutical Development QbD-MR.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.2.1 Components of the Drug Product Non-granular.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.2.1 Components of the Drug Product Non-granular.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.2.2 Drug Product Non-granular.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.2.2 Drug Product Non-granular.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.2.3 Manufacturing Process Development.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.2.3 Manufacturing Process Development.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.2.4 Container Closure System.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.2.4 Container Closure System.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.2.5 Microbiological Attributes.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.2.5 Microbiological Attributes.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.2.6 Compatibility.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.2.6 Compatibility.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.1 Manufacturers.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.1 Manufacturers.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.2 Batch Formula.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.2 Batch Formula.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.3 Description of Manufacturing Process and Process Controls Non-granular Parenteral-Aseptic.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.3 Description of Manufacturing Process and Process Controls Non-granular Parenteral-Aseptic.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.3 Description of Manufacturing Process and Process Controls Non-granular Parenteral-TS.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.3 Description of Manufacturing Process and Process Controls Non-granular Parenteral-TS.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.3 Description of Manufacturing Process and Process Controls Non-granular Solid Oral.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.3 Description of Manufacturing Process and Process Controls Non-granular Solid Oral.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.3 Description of Manufacturing Process and Process Controls Non-granular.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.3 Description of Manufacturing Process and Process Controls Non-granular.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.4 Controls of Critical Steps and Intermediates.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.4 Controls of Critical Steps and Intermediates.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5 Process Validation and-or Evaluation _Solid Orals.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5 Process Validation and-or Evaluation _Solid Orals.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5 Process Validation and-or Evaluation_Aseptic Process Validation.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5 Process Validation and-or Evaluation_Aseptic Process Validation.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5 Process Validation and-or Evaluation_Aseptic Process.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5 Process Validation and-or Evaluation_Aseptic Process.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5 Process Validation and-or Evaluation_Intro_Parentrals_US.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5 Process Validation and-or Evaluation_Intro_Parentrals_US.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5 Process Validation and-or Evaluation_Terminal Process.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5 Process Validation and-or Evaluation_Terminal Process.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5 Process Validation_Terminal Sterilization.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5 Process Validation_Terminal Sterilization.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5 Sterility Assurance Process Validation by Terminal Sterilization.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5 Sterility Assurance Process Validation by Terminal Sterilization.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5.1 Drug Product Bulk Solution Filtration- Aseptic Sterilization.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5.1 Drug Product Bulk Solution Filtration- Aseptic Sterilization.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5.1 Heat Distribution and Penetration Studies.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5.1 Heat Distribution and Penetration Studies.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5.2 Microbiological Efficacy of the Cycle.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5.2 Microbiological Efficacy of the Cycle.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5.2 Ster-Depyro-Cont-Clos-Equip-Comp- Aseptic Sterilization.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5.2 Ster-Depyro-Cont-Clos-Equip-Comp- Aseptic Sterilization.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5.3 Microbiological Challenge Studies.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5.3 Microbiological Challenge Studies.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5.3 Specification Concerning Holding Periods- Aseptic Sterilization.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5.3 Specification Concerning Holding Periods- Aseptic Sterilization.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5.4 Media Fills Procedure and Specification- Aseptic Sterilization.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5.4 Media Fills Procedure and Specification- Aseptic Sterilization.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5.5 Actions Concerning Media Fill Fail- Aseptic Sterilization.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.3.5.5 Actions Concerning Media Fill Fail- Aseptic Sterilization.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.4 Control of Excipients_Intro.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.4 Control of Excipients_Intro.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.4.1 Specifications_Non Granular.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.4.1 Specifications_Non Granular.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.4.2 Analytical Procedures.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.4.2 Analytical Procedures.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.4.2 Analytical Procedures_Test Method.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.4.2 Analytical Procedures_Test Method.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.4.3 Validation of Analytical Procedures.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.4.3 Validation of Analytical Procedures.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.4.3 Validation of Analytical Procedures-Test Method.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.4.3 Validation of Analytical Procedures-Test Method.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.4.4 Justification of Specifications.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.4.4 Justification of Specifications.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.4.5 Excipients of Human or Animal Origin.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.4.5 Excipients of Human or Animal Origin.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.4.6 Novel Excipients.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.4.6 Novel Excipients.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.5.1 Specifications.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.5.1 Specifications.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.5.2 Analytical Procedures _General Test Method.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.5.2 Analytical Procedures _General Test Method.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.5.2 Analytical Procedures _Test Method.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.5.2 Analytical Procedures _Test Method.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.5.2 Analytical Procedures_Intro.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.5.2 Analytical Procedures_Intro.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.5.3 Validation of Analytical Procedures_Intro.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.5.3 Validation of Analytical Procedures_Intro.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.5.3 Validation of Analytical Procedures_Test Method.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.5.3 Validation of Analytical Procedures_Test Method.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.5.4 Batch Analyses Non-granular.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.5.4 Batch Analyses Non-granular.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.5.5 Characterization of Impurities.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.5.5 Characterization of Impurities.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.5.6 Justification of Specifications.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.5.6 Justification of Specifications.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.6 Reference Standards or Materials.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.6 Reference Standards or Materials.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.7.1 Container Closure System non-granular.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.7.1 Container Closure System non-granular.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.7.2 Container Closure System-Secondary Packaging.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.7.2 Container Closure System-Secondary Packaging.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.8.1 Stability Summary and Conclusion Non-granular.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.8.1 Stability Summary and Conclusion Non-granular.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.8.2 Postapproval Stability Protocol and Stability Commitment.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.8.2 Postapproval Stability Protocol and Stability Commitment.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.8.3 Stability Data.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.P.8.3 Stability Data.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.R Regional Information_EU only.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.R Regional Information_EU only.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.R.1.P Regional Information_Executed Batch Records.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.R.1.P Regional Information_Executed Batch Records.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.R.1.S Regional Information_Executed Batch Records.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.R.1.S Regional Information_Executed Batch Records.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.R.2.P Regional Information_Comparability Protocols.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.R.2.P Regional Information_Comparability Protocols.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.R.2.S Regional Information_Comparability Protocols.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.R.2.S Regional Information_Comparability Protocols.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.R.3.P Methods Validation Package.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.R.3.P Methods Validation Package.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.R.3.S Methods Validation Package.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.R.3.S Methods Validation Package.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.1.1 Nomenclature.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.1.1 Nomenclature.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.1.2 Structure.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.1.2 Structure.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.1.3 General Properties.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.1.3 General Properties.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.2.1 Manufacturers.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.2.1 Manufacturers.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.2.2 Description of Manufacturing Process and Process Controls Non-granular - applicant part.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.2.2 Description of Manufacturing Process and Process Controls Non-granular - applicant part.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.2.2 Description of Manufacturing Process and Process Controls Non-granular - restricted part.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.2.2 Description of Manufacturing Process and Process Controls Non-granular - restricted part.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.2.3 Control of Materials Non-granular - applicant part.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.2.3 Control of Materials Non-granular - applicant part.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.2.3 Control of Materials Non-granular - restricted part.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.2.3 Control of Materials Non-granular - restricted part.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.2.4 Control of Critical Steps and Intermediates Non-granular - applicant part.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.2.4 Control of Critical Steps and Intermediates Non-granular - applicant part.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.2.4 Control of Critical Steps and Intermediates Non-granular -restricted part.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.2.4 Control of Critical Steps and Intermediates Non-granular -restricted part.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.2.5 Process Validation and-or Evaluation - applicant part.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.2.5 Process Validation and-or Evaluation - applicant part.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.2.5 Process Validation and-or Evaluation - restricted part.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.2.5 Process Validation and-or Evaluation - restricted part.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.2.6 Manufacturing Process Development - applicant part.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.2.6 Manufacturing Process Development - applicant part.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.2.6 Manufacturing Process Development - restricted part.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.2.6 Manufacturing Process Development - restricted part.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.3.1 Elucidation of Structure and Other Characteristics.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.3.1 Elucidation of Structure and Other Characteristics.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.3.2 Impurities Non-granular.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.3.2 Impurities Non-granular.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.1 Specification.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.1 Specification.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.2 Analytical Procedure for GC Method.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.2 Analytical Procedure for GC Method.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.2 Analytical Procedure for HPLC.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.2 Analytical Procedure for HPLC.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.2 Analytical Procedure for Potency by Potentiometry.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.2 Analytical Procedure for Potency by Potentiometry.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.2 Analytical Procedures.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.2 Analytical Procedures.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.2 Analytical Procedures-General Test Method.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.2 Analytical Procedures-General Test Method.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.2 Analytical Procedures-Test Method.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.2 Analytical Procedures-Test Method.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.3 Validation of Analytical Procedure for Determination of Potency by Potentiometry.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.3 Validation of Analytical Procedure for Determination of Potency by Potentiometry.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.3 Validation of Analytical Procedure for GC Method.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.3 Validation of Analytical Procedure for GC Method.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.3 Validation of Analytical Procedure for HPLC Method.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.3 Validation of Analytical Procedure for HPLC Method.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.3 Validation of Analytical Procedures- General Test Method.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.3 Validation of Analytical Procedures- General Test Method.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.3 Validation of Analytical Procedures.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.3 Validation of Analytical Procedures.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.3 Validation of Analytical Procedures-Test Method.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.3 Validation of Analytical Procedures-Test Method.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.4 Batch Analyses.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.4 Batch Analyses.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.5 Justification of Specification.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.4.5 Justification of Specification.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.5 Reference Standards or Materials.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.5 Reference Standards or Materials.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.6 Container Closure System.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.6 Container Closure System.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.7.1 Stability Summary and Conclusions Non-granular.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.7.1 Stability Summary and Conclusions Non-granular.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.7.2 Post-approval Stability Protocol and Stability Commitment.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.7.2 Post-approval Stability Protocol and Stability Commitment.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.7.3 Stability Data Non-granular.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.2.S.7.3 Stability Data Non-granular.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.3 Literature References_Placeholder.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\3.3 Literature References_Placeholder.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Glass Deamination Report .docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Glass Deamination Report .docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\.Module 3 Granularity Instructions.txt".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\.Module 3 Granularity Instructions.txt'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.1.1 Description and Composition of the Drug Product-Description of the Dosage Form.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.1.1 Description and Composition of the Drug Product-Description of the Dosage Form.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.1.2 Description and Composition of the Drug Product-Composition.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.1.2 Description and Composition of the Drug Product-Composition.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.1.3 Description and Composition of the Drug Product-Container Closure System.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.1.3 Description and Composition of the Drug Product-Container Closure System.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.2.1.1 Components of the Drug Product-Drug Substance.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.2.1.1 Components of the Drug Product-Drug Substance.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.2.1.2 Components of the Drug Product-Excipients.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.2.1.2 Components of the Drug Product-Excipients.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.2.2.1 Drug Product-Formulation Development.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.2.2.1 Drug Product-Formulation Development.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.2.2.2 Drug Product-Overages.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.2.2.2 Drug Product-Overages.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.2.2.3 Drug Product-Physicochemical and Biological Properties.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.2.2.3 Drug Product-Physicochemical and Biological Properties.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.3.3.1 Description of Manufacturing Process and Process Controls-Flow Diagram.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.3.3.1 Description of Manufacturing Process and Process Controls-Flow Diagram.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.3.3.2 Description of Manufacturing Process and Process Controls-Process Description.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.3.3.2 Description of Manufacturing Process and Process Controls-Process Description.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.3.3.3 Description of Manufacturing Process and Process Controls-In process Controls.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.3.3.3 Description of Manufacturing Process and Process Controls-In process Controls.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.4.1.1 Specifications - Compendial Excipients.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.4.1.1 Specifications - Compendial Excipients.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.4.1.2 Specifications - Noncompendial Excipients.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.4.1.2 Specifications - Noncompendial Excipients.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.5.4.1 Batch Analyses-Batch Information.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.5.4.1 Batch Analyses-Batch Information.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.5.4.2 Batch Analyses-Drug Substance-Analytical Results.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.5.4.2 Batch Analyses-Drug Substance-Analytical Results.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.5.4.3 Batch Analyses-Drug Substance-Specification Information.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.5.4.3 Batch Analyses-Drug Substance-Specification Information.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.5.4.4 Batch Analyses-Drug Substance-Drug Product Batch Correlation.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.5.4.4 Batch Analyses-Drug Substance-Drug Product Batch Correlation.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.7.1.1 Container Closure System-Primary Packaging-Component Specification.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.7.1.1 Container Closure System-Primary Packaging-Component Specification.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.7.1.2 Container Closure System-Primary Packaging-Components Drawing.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.7.1.2 Container Closure System-Primary Packaging-Components Drawing.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.7.1.3 Container Closure System-Primary Packaging-Analytical Procedures.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.7.1.3 Container Closure System-Primary Packaging-Analytical Procedures.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.8.1.1 Stability Summary and Conclusion-Shelf Life Period and Labeled Storage Condition.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.8.1.1 Stability Summary and Conclusion-Shelf Life Period and Labeled Storage Condition.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.8.1.2 Stability Summary and Conclusion-Design of Stability Studies.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.8.1.2 Stability Summary and Conclusion-Design of Stability Studies.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.8.1.3 Stability Summary and Conclusion-Batches Tested and Packaging.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.8.1.3 Stability Summary and Conclusion-Batches Tested and Packaging.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.8.1.4 Stability Summary and Conclusion-Stability Data Discussion.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.8.1.4 Stability Summary and Conclusion-Stability Data Discussion.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.8.1.5 Stability Summary and Conclusion-Statistical Analyses.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.8.1.5 Stability Summary and Conclusion-Statistical Analyses.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.8.3.1 Stability Data-Results of Stability Data.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.8.3.1 Stability Data-Results of Stability Data.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.8.3.2 Stability Data-Analytical Procedures.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.8.3.2 Stability Data-Analytical Procedures.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.8.3.3 Stability Data-Validation of the Analytical Procedures.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.P.8.3.3 Stability Data-Validation of the Analytical Procedures.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.2.2.1 Description of Manufacturing Process and Process Controls-Flow Diagram.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.2.2.1 Description of Manufacturing Process and Process Controls-Flow Diagram.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.2.2.2 Description of Manufacturing Process and Process Controls-Manuf Process.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.2.2.2 Description of Manufacturing Process and Process Controls-Manuf Process.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.2.2.3 Description of Manufacturing Process and Process Controls-Inprocess Controls.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.2.2.3 Description of Manufacturing Process and Process Controls-Inprocess Controls.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.2.3.1 Control of Materials-Starting Materials.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.2.3.1 Control of Materials-Starting Materials.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.2.3.2 Control of Materials-Starting Materials-Specifications.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.2.3.2 Control of Materials-Starting Materials-Specifications.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.2.3.3 Control of Materials-Starting Materials-Analytical Procedures.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.2.3.3 Control of Materials-Starting Materials-Analytical Procedures.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.2.3.4 Control of Materials-List of Reagents, Solvents and Auxiliary Materials.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.2.3.4 Control of Materials-List of Reagents, Solvents and Auxiliary Materials.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.2.3.5 Control of Materials-List of Reagents, Solvents and Auxiliary Materials-HumanAnimalOrgin.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.2.3.5 Control of Materials-List of Reagents, Solvents and Auxiliary Materials-HumanAnimalOrgin.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.2.4.1 Control of Critical Steps and Intermediates-Critical Steps.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.2.4.1 Control of Critical Steps and Intermediates-Critical Steps.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.2.4.2 Control of Critical Steps and Intermediates-Intermediates.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.2.4.2 Control of Critical Steps and Intermediates-Intermediates.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.2.4.3 Controls of Critical Steps and Intermediates-Analytical Procedures.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.2.4.3 Controls of Critical Steps and Intermediates-Analytical Procedures.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.3.2.1 Impurities List.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.3.2.1 Impurities List.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.3.2.2 Impurities-Structural Characterizations of the Impurities.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.3.2.2 Impurities-Structural Characterizations of the Impurities.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.7.1.1 Stability Summary and Conclusions-Retest Period and Storage Conditions.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.7.1.1 Stability Summary and Conclusions-Retest Period and Storage Conditions.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.7.1.2 Stability Summary and Conclusions-Design of Stability Studies.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.7.1.2 Stability Summary and Conclusions-Design of Stability Studies.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.7.1.3 Stability Summary and Conclusions-Batches Tested and Packaging.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.7.1.3 Stability Summary and Conclusions-Batches Tested and Packaging.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.7.1.4 Stability Summary and Conclusions-Discussion of Stability Data.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.7.1.4 Stability Summary and Conclusions-Discussion of Stability Data.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.7.1.5 Stability Summary and Conclusions-Statistical Analyses.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.7.1.5 Stability Summary and Conclusions-Statistical Analyses.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.7.1.6 Stability Summary and Conclusions-Forced Degradation.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.7.1.6 Stability Summary and Conclusions-Forced Degradation.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.7.3.1 Stability Data-Results under Established Storage and Stress Conditions.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.7.3.1 Stability Data-Results under Established Storage and Stress Conditions.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.7.3.2 Stability Data-Analytical Procedures.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.7.3.2 Stability Data-Analytical Procedures.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.7.3.3 Stability Data-Validation of the Analytical Procedures.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\3.2.S.7.3.3 Stability Data-Validation of the Analytical Procedures.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\StartingPointBlank.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Granular Module 3 Templates\StartingPointBlank.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Risk Assessment Nitrosamine Impurities.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\Risk Assessment Nitrosamine Impurities.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\StartingPointBlank.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 3 Quality\StartingPointBlank.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 4 Safety\4.3 Literature References_Placeholder.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 4 Safety\4.3 Literature References_Placeholder.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 4 Safety\Non-GLP Pharmacology Study Report.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 4 Safety\Non-GLP Pharmacology Study Report.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 4 Safety\Pharmacokinetic Study Report.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 4 Safety\Pharmacokinetic Study Report.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 4 Safety\Pharmacology Study Report.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 4 Safety\Pharmacology Study Report.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 4 Safety\StartingPointBlank.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 4 Safety\StartingPointBlank.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 4 Safety\Toxicology Protocol.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 4 Safety\Toxicology Protocol.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 4 Safety\Toxicology Study Report.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 4 Safety\Toxicology Study Report.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.1 Protocol or Amendment.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.1 Protocol or Amendment.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.10 Inter-Laboratory Standardization Methods Quality Assurance.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.10 Inter-Laboratory Standardization Methods Quality Assurance.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.11 Publications Based on Study.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.11 Publications Based on Study.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.12 Publications Referenced in Report.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.12 Publications Referenced in Report.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.2 Sample Case Report Form.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.2 Sample Case Report Form.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.3 IEC-IRB Consent Form List.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.3 IEC-IRB Consent Form List.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.4 List Description Investigator Site.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.4 List Description Investigator Site.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.5 Signatures Investigators.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.5 Signatures Investigators.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.6 List Patients with Batches.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.6 List Patients with Batches.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.7 Randomization Scheme.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.7 Randomization Scheme.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.8 Audit Certificates Report.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.8 Audit Certificates Report.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.9 Statistical Methods Interim Analysis Plan.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.1.9 Statistical Methods Interim Analysis Plan.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.2.1 Discontinued Patients.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.2.1 Discontinued Patients.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.2.2 Protocol Deviations.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.2.2 Protocol Deviations.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.2.3 Patients Excluded from Efficacy Analysis.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.2.3 Patients Excluded from Efficacy Analysis.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.2.4 Demographic Data.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.2.4 Demographic Data.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.2.5 Compliance and Drug Concentration Data.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.2.5 Compliance and Drug Concentration Data.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.2.6 Individual Pharmacokinetics Response Data Phase I.DOCX".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.2.6 Individual Pharmacokinetics Response Data Phase I.DOCX'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.2.7 Adverse Event Listings.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.2.7 Adverse Event Listings.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.2.8 Individual Laboratory Measurements.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.2.8 Individual Laboratory Measurements.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.3.1 CRFs for Deaths, SAEs, and Withdrawals.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.3.1 CRFs for Deaths, SAEs, and Withdrawals.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.3.2 Other CRFs.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\16.3.2 Other CRFs.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\5.4 Literature References_Placeholder.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\5.4 Literature References_Placeholder.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\Abbrev-16.1.1 Protocol and Amendments.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\Abbrev-16.1.1 Protocol and Amendments.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\Abbrev-16.1.2 Sample CRF.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\Abbrev-16.1.2 Sample CRF.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\Abbrev-16.2.7 Adverse Event Listings.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\Abbrev-16.2.7 Adverse Event Listings.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\Abbrev-16.3.1 CRFs for Deaths, SAEs, and Withdrawals.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\Abbrev-16.3.1 CRFs for Deaths, SAEs, and Withdrawals.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\Abbrev-Clinical Study Report_granular body.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\Abbrev-Clinical Study Report_granular body.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\Abbrev-Synopsis.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\Abbrev-Synopsis.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\Clinical Study Protocol Phase I.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\Clinical Study Protocol Phase I.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\Clinical Study Protocol Phase II-III.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\Clinical Study Protocol Phase II-III.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\Clinical Study Report_granular body Phase I.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\Clinical Study Report_granular body Phase I.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\SAP Phase I.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\SAP Phase I.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\StartingPointBlank.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\StartingPointBlank.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\Synopsis Phase I.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Module 5 Efficacy\Synopsis Phase I.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\1.1 Module 1 Table of Contents_paper.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\1.1 Module 1 Table of Contents_paper.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\2.1 Module 2 Table of Contents_paper.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\2.1 Module 2 Table of Contents_paper.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\3.1 Module 3 Table of Contents_paper.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\3.1 Module 3 Table of Contents_paper.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\4.1 Module 4 Table of Contents_paper.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\4.1 Module 4 Table of Contents_paper.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\5.1 Module 5 Table of Contents_paper.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\5.1 Module 5 Table of Contents_paper.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\Clinical Study Report Phase I.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\Clinical Study Report Phase I.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\Clinical Study Report Phase II-III.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\Clinical Study Report Phase II-III.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\Hybrid CTD-eNDA TOC-M1.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\Hybrid CTD-eNDA TOC-M1.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\Hybrid CTD-eNDA TOC-M2.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\Hybrid CTD-eNDA TOC-M2.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\Hybrid CTD-eNDA TOC-M3.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\Hybrid CTD-eNDA TOC-M3.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\Hybrid CTD-eNDA TOC-M4.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\Hybrid CTD-eNDA TOC-M4.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\Hybrid CTD-eNDA TOC-M5.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\Hybrid CTD-eNDA TOC-M5.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\IND Annual Report.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\IND Annual Report.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\NDA Annual Report.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\NDA Annual Report.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\StartingPointBlank.docx".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Paper & Hybrid ROW\StartingPointBlank.docx'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\SPFAQ.pdf".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\SPFAQ.pdf'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\StartingPoint Administrator and Super User Manual.pdf".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\StartingPoint Administrator and Super User Manual.pdf'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\StartingPoint Style Definition Guide.pdf".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\StartingPoint Style Definition Guide.pdf'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\StartingPoint User Manual.pdf".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\StartingPoint User Manual.pdf'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\StartingPointSettings.ini".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\StartingPointSettings.ini'.
+VERBOSE: Performing the operation "Remove File" on target "C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Tipsheet.pdf".
+VERBOSE: Created 'C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Tipsheet.pdf'.
+VERBOSE: Performing the operation "Set Property File" on target "Item: C:\StartingPoint\StartingPoint_v5.6.1_IND\Templates\Author.dotm Property: IsReadOnly Value: False".
+VERBOSE: Performing the operation "New Property" on target "Item: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced Property: HideFileExt".
+
+
+HideFileExt  : 0
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer
+               \Advanced
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer
+PSChildName  : Advanced
+PSDrive      : HKCU
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+VERBOSE: Performing the operation "Stop-Process" on target "explorer (27352)".
+VERBOSE: Performing the operation "New Property" on target "Item: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\16.0\Word\Options Property: DeveloperTools".
+DeveloperTools : 1
+PSPath         : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\16.0\Word\Options
+PSParentPath   : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\16.0\Word
+PSChildName    : Options
+PSDrive        : HKCU
+PSProvider     : Microsoft.PowerShell.Core\Registry
+
+VERBOSE: Performing the operation "New Property" on target "Item: HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Word\Security Property: VBAWarnings".
+VBAWarnings  : 3
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Word\Security
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Word
+PSChildName  : Security
+PSDrive      : HKCU
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+VERBOSE: Performing the operation "New Property" on target "Item: HKEY_CURRENT_USER\Software\Policies\Microsoft\office\16.0\common\general Property: sharedtemplates".
+sharedtemplates : C:\
+PSPath          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Policies\Microsoft\office\16.0\common\
+                  general
+PSParentPath    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Policies\Microsoft\office\16.0\common
+PSChildName     : general
+PSDrive         : HKCU
+PSProvider      : Microsoft.PowerShell.Core\Registry
+
+PSPath                   : Microsoft.PowerShell.Security\Certificate::LocalMachine\TrustedPublisher\9ECEC39A542B53C103D
+                           A2B8F829BB5422750D3B3
+PSParentPath             : Microsoft.PowerShell.Security\Certificate::LocalMachine\TrustedPublisher
+PSChildName              : 9ECEC39A542B53C103DA2B8F829BB5422750D3B3
+PSIsContainer            : False
+Archived                 : False
+Extensions               : {System.Security.Cryptography.Oid, System.Security.Cryptography.Oid,
+                           System.Security.Cryptography.Oid, System.Security.Cryptography.Oid...}
+FriendlyName             :
+IssuerName               : System.Security.Cryptography.X509Certificates.X500DistinguishedName
+NotAfter                 : 12/3/2024 6:59:59 PM
+NotBefore                : 12/2/2021 7:00:00 PM
+HasPrivateKey            : False
+PrivateKey               :
+PublicKey                : System.Security.Cryptography.X509Certificates.PublicKey
+RawData                  : {48, 130, 6, 228...}
+SerialNumber             : 0EC2B067B5C3C54C269A983B21AE4AE4
+SubjectName              : System.Security.Cryptography.X509Certificates.X500DistinguishedName
+SignatureAlgorithm       : System.Security.Cryptography.Oid
+Thumbprint               : 9ECEC39A542B53C103DA2B8F829BB5422750D3B3
+Version                  : 3
+Handle                   : 2144354870048
+Issuer                   : CN=DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1, O="DigiCert, Inc.", C=US
+Subject                  : CN=Accenture LLP, O=Accenture LLP, L=Florham Park, S=New Jersey, C=US
+EnhancedKeyUsageList     : {Code Signing (1.3.6.1.5.5.7.3.3)}
+DnsNameList              : {Accenture LLP}
+SendAsTrustedIssuer      : False
+EnrollmentPolicyEndPoint : Microsoft.CertificateServices.Commands.EnrollmentEndPointProperty
+EnrollmentServerEndPoint : Microsoft.CertificateServices.Commands.EnrollmentEndPointProperty
+PolicyId                 :
+
+VERBOSE: Preparing to expand...
+PS>TerminatingError(Resolve-Path): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\StartingPoint_v5.6.1_IND.zip' because it does not exist."
+PS>TerminatingError(): "The pipeline has been stopped."
+>> TerminatingError(Expand-Archive): "The path 'C:\StartingPoint_v5.6.1_IND.zip' either does not exist or is not a valid file system path."
+Expand-Archive : The path 'C:\StartingPoint_v5.6.1_IND.zip' either does not exist or is not a valid file system path.
+At C:\Users\shelby\OneDrive - Novick Tech\Scripts\Powershell\StartingPoint 
+_Nkarta\Starting_Point_Installer_Package_Final\DO_NOT_RUN.ps1:95 char:1
++ Expand-Archive -Path C:\StartingPoint_v5.6.1_IND.zip -DestinationPath ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (C:\StartingPoint_v5.6.1_IND.zip:String) [Expand-Archive], 
+InvalidOperationException
+    + FullyQualifiedErrorId : ArchiveCmdletPathNotFound,Expand-Archive
+Expand-Archive : The path 'C:\StartingPoint_v5.6.1_IND.zip' either does not exist or is not a valid file system path.
+At C:\Users\shelby\OneDrive - Novick Tech\Scripts\Powershell\StartingPoint
+_Nkarta\Starting_Point_Installer_Package_Final\DO_NOT_RUN.ps1:95 char:1
++ Expand-Archive -Path C:\StartingPoint_v5.6.1_IND.zip -DestinationPath ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (C:\StartingPoint_v5.6.1_IND.zip:String) [Expand-Archive], InvalidOpera
+   tionException
+    + FullyQualifiedErrorId : ArchiveCmdletPathNotFound,Expand-Archive
+
+Contains String
+
+
+PS>$global:?
+True
+**********************
+Windows PowerShell transcript end
+End time: 20220204092816
+**********************
