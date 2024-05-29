@@ -1,0 +1,1698 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20220817102958
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 37452
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Josep.Espanol@insmed.com already exists in Temps_Consultants_Password_Policy
+Michael.Dara@insmed.com already exists in Temps_Consultants_Password_Policy
+Ravi.Raviteja@insmed.com already exists in Temps_Consultants_Password_Policy
+Alison.Wertheim@insmed.com already exists in Temps_Consultants_Password_Policy
+Frederick.Nadar@insmed.com already exists in Temps_Consultants_Password_Policy
+Julio.Barrientos@insmed.com already exists in Temps_Consultants_Password_Policy
+Ravikanth.Pilli@insmed.com already exists in Temps_Consultants_Password_Policy
+Anthony.Knific@insmed.com already exists in Temps_Consultants_Password_Policy
+Prateek.Jain@insmed.com already exists in Temps_Consultants_Password_Policy
+Deepak.Kalra@insmed.com already exists in Temps_Consultants_Password_Policy
+Dan.Tiernan@insmed.com already exists in Temps_Consultants_Password_Policy
+Shobha.Prabhakar@insmed.com already exists in Temps_Consultants_Password_Policy
+Adarsha.Shasthry@insmed.com already exists in Temps_Consultants_Password_Policy
+Casey.Whaley@insmed.com already exists in Temps_Consultants_Password_Policy
+Matt.Fussell@insmed.com already exists in Temps_Consultants_Password_Policy
+Amit.Kumar@insmed.com already exists in Temps_Consultants_Password_Policy
+Raj.Chakravarthi@insmed.com already exists in Temps_Consultants_Password_Policy
+John.Lanni@insmed.com already exists in Temps_Consultants_Password_Policy
+Nithin.Sridhar@insmed.com already exists in Temps_Consultants_Password_Policy
+Sathish.Adoni@insmed.com already exists in Temps_Consultants_Password_Policy
+Prasanna.Velpula@insmed.com already exists in Temps_Consultants_Password_Policy
+Doug.Hangliter@insmed.com already exists in Temps_Consultants_Password_Policy
+Vinay.Chintapalli@insmed.com already exists in Temps_Consultants_Password_Policy
+Poonam.Sharma@insmed.com already exists in Temps_Consultants_Password_Policy
+Roberth.Larriva@insmed.com already exists in Temps_Consultants_Password_Policy
+Harjit.Singh@insmed.com already exists in Temps_Consultants_Password_Policy
+Nitin.Sukhiya@insmed.com already exists in Temps_Consultants_Password_Policy
+Sushmitha.J@insmed.com already exists in Temps_Consultants_Password_Policy
+Ashok.Kumar@insmed.com already exists in Temps_Consultants_Password_Policy
+Samuel.Urban@insmed.com already exists in Temps_Consultants_Password_Policy
+Udaya.Rejeti@insmed.com already exists in Temps_Consultants_Password_Policy
+Sunil.Kumar@insmed.com already exists in Temps_Consultants_Password_Policy
+Harshith.M@insmed.com already exists in Temps_Consultants_Password_Policy
+Daniel.Stephen@insmed.com already exists in Temps_Consultants_Password_Policy
+Gousepeer.Dudekula@insmed.com already exists in Temps_Consultants_Password_Policy
+Subhash.Kumar@insmed.com already exists in Temps_Consultants_Password_Policy
+Ashish.Ankit@insmed.com already exists in Temps_Consultants_Password_Policy
+Sindhu.Mohan@insmed.com already exists in Temps_Consultants_Password_Policy
+Arnab.Roy@insmed.com already exists in Temps_Consultants_Password_Policy
+Mahendra.BV@insmed.com already exists in Temps_Consultants_Password_Policy
+Manish.Manjunath@insmed.com already exists in Temps_Consultants_Password_Policy
+aman.singh@insmed.com already exists in Temps_Consultants_Password_Policy
+Abhilash.Naik@insmed.com already exists in Temps_Consultants_Password_Policy
+Sai.Gnanamani@insmed.com already exists in Temps_Consultants_Password_Policy
+Abhishek.N@insmed.com already exists in Temps_Consultants_Password_Policy
+Rangaswamy.Maddileti@insmed.com already exists in Temps_Consultants_Password_Policy
+Shreedhar.Valadi@insmed.com already exists in Temps_Consultants_Password_Policy
+Rohith.Venkatram@insmed.com already exists in Temps_Consultants_Password_Policy
+Naman.Rawal@insmed.com already exists in Temps_Consultants_Password_Policy
+Abhishek.Jagannath@insmed.com already exists in Temps_Consultants_Password_Policy
+Nivethitha.Vivekanand@insmed.com already exists in Temps_Consultants_Password_Policy
+Christopher.Dunphy@insmed.com already exists in Temps_Consultants_Password_Policy
+Navhit.Pawar@insmed.com already exists in Temps_Consultants_Password_Policy
+Vagdevi.Thondapi@insmed.com already exists in Temps_Consultants_Password_Policy
+Sateesh.Kanagala@insmed.com already exists in Temps_Consultants_Password_Policy
+Samuel.Dzifanu@insmed.com already exists in Temps_Consultants_Password_Policy
+Umamaheswara.Vandadi@insmed.com already exists in Temps_Consultants_Password_Policy
+Geetanjali.Pandey@insmed.com already exists in Temps_Consultants_Password_Policy
+Yogesh.Devaraj@insmed.com already exists in Temps_Consultants_Password_Policy
+Suman.Nakka@insmed.com already exists in Temps_Consultants_Password_Policy
+Megha.Parameshwarappa@insmed.com already exists in Temps_Consultants_Password_Policy
+Ralph.Lafortune@insmed.com already exists in Temps_Consultants_Password_Policy
+Molly.Correia@insmed.com already exists in Temps_Consultants_Password_Policy
+Jeremy.Kunkes@insmed.com already exists in Temps_Consultants_Password_Policy
+Faisal.Khan@insmed.com already exists in Temps_Consultants_Password_Policy
+Kiran.Chitrada@insmed.com already exists in Temps_Consultants_Password_Policy
+Prashanth.Bandi@insmed.com already exists in Temps_Consultants_Password_Policy
+Divyanshu.Sofat@insmed.com already exists in Temps_Consultants_Password_Policy
+Daniel.Padeiro@insmed.com already exists in Temps_Consultants_Password_Policy
+Harish.Kumar@insmed.com already exists in Temps_Consultants_Password_Policy
+Manasa.GS@insmed.com already exists in Temps_Consultants_Password_Policy
+Andreas.Krijnen@insmed.com already exists in Temps_Consultants_Password_Policy
+Shravanya.N@insmed.com already exists in Temps_Consultants_Password_Policy
+UserPrincipalName does not exist in AD
+Added Sruthi.Muppidi@insmed.com to Temps_Consultants_Password_Policy
+Added ShankarRao.Hulgeri@insmed.com to Temps_Consultants_Password_Policy
+Added Ethan.Holder@insmed.com to Temps_Consultants_Password_Policy
+Added Michael.Gore@insmed.com to Temps_Consultants_Password_Policy
+Added Brittany.Sweeney@insmed.com to Temps_Consultants_Password_Policy
+Added Timothy.Corbley@insmed.com to Temps_Consultants_Password_Policy
+Added Shelby.Mader@insmed.com to Temps_Consultants_Password_Policy
+Added Hirokazu.Ono@insmed.com to Temps_Consultants_Password_Policy
+Added Garima.Gautam@insmed.com to Temps_Consultants_Password_Policy
+Added Christo.Christudhas@insmed.com to Temps_Consultants_Password_Policy
+Added kathryn.martin@insmed.com to Temps_Consultants_Password_Policy
+Added Andrea.Miller@insmed.com to Temps_Consultants_Password_Policy
+Added Stanish.ArulJagan@insmed.com to Temps_Consultants_Password_Policy
+Added Lee.Fixmer@insmed.com to Temps_Consultants_Password_Policy
+Added Christen.Matolicz@insmed.com to Temps_Consultants_Password_Policy
+Added Humberto.Bringas@insmed.com to Temps_Consultants_Password_Policy
+Added Herminia.Taveras@insmed.com to Temps_Consultants_Password_Policy
+Added Kavitha.R@insmed.com to Temps_Consultants_Password_Policy
+Added Yana.Kabina@insmed.com to Temps_Consultants_Password_Policy
+Added Asuka.Takigawa@insmed.com to Temps_Consultants_Password_Policy
+Added Vinay.Yalamanchili@insmed.com to Temps_Consultants_Password_Policy
+Added Gladwin.Antony@insmed.com to Temps_Consultants_Password_Policy
+Added Walter.Moore@insmed.com to Temps_Consultants_Password_Policy
+Added Raphael.Dauvergne@insmed.com to Temps_Consultants_Password_Policy
+Added Spencer.Sather@insmed.com to Temps_Consultants_Password_Policy
+Added Venkannababu.Koya@insmed.com to Temps_Consultants_Password_Policy
+Added Ayako.Makino@insmed.com to Temps_Consultants_Password_Policy
+Added John.McGraw@insmed.com to Temps_Consultants_Password_Policy
+Added Melissa.Kolb@insmed.com to Temps_Consultants_Password_Policy
+Added Kasey.Samaroo@insmed.com to Temps_Consultants_Password_Policy
+Added Michael.Smolinski@insmed.com to Temps_Consultants_Password_Policy
+Added Venkata.Nauduri@insmed.com to Temps_Consultants_Password_Policy
+Added Brandon.Wallace@insmed.com to Temps_Consultants_Password_Policy
+Added Lakshmi.Pujari@insmed.com to Temps_Consultants_Password_Policy
+Added Rana.Ramavath@insmed.com to Temps_Consultants_Password_Policy
+Added Ritesh.Agarwal@insmed.com to Temps_Consultants_Password_Policy
+Added Michele.Ragazzini@insmed.com to Temps_Consultants_Password_Policy
+Added Christopher.Rogers@insmed.com to Temps_Consultants_Password_Policy
+Added James.Fite@insmed.com to Temps_Consultants_Password_Policy
+Added Hannah.Jarosinski@insmed.com to Temps_Consultants_Password_Policy
+Added Binh.Ho@insmed.com to Temps_Consultants_Password_Policy
+Added Swarup.Malli@insmed.com to Temps_Consultants_Password_Policy
+Added Joe.Sanabria@insmed.com to Temps_Consultants_Password_Policy
+Added Antoinette.Abara@insmed.com to Temps_Consultants_Password_Policy
+Added Raghuveera.Sagili@insmed.com to Temps_Consultants_Password_Policy
+Added Christoph.Osterreicher@insmed.com to Temps_Consultants_Password_Policy
+Added Yuichi.Iwasaki@insmed.com to Temps_Consultants_Password_Policy
+Added Jeremy.Wasserman@insmed.com to Temps_Consultants_Password_Policy
+Added Hari.Thyagaraj@insmed.com to Temps_Consultants_Password_Policy
+Added Vedha.Champati@insmed.com to Temps_Consultants_Password_Policy
+Added Mayumi.Komiyama@insmed.com to Temps_Consultants_Password_Policy
+Added Atul.Yadav@insmed.com to Temps_Consultants_Password_Policy
+Added Mark.Rich@insmed.com to Temps_Consultants_Password_Policy
+Added Gajapathy.Ramalingam@insmed.com to Temps_Consultants_Password_Policy
+Added Kevin.Smith@insmed.com to Temps_Consultants_Password_Policy
+Added Tomoyuki.Nishioka@insmed.com to Temps_Consultants_Password_Policy
+Added Kenichi.Kanazawa@insmed.com to Temps_Consultants_Password_Policy
+Added Ritsuko.Mitsuhashi@insmed.com to Temps_Consultants_Password_Policy
+Added Chetna.Dodiya@insmed.com to Temps_Consultants_Password_Policy
+Added Vignesh.Subramaniam@insmed.com to Temps_Consultants_Password_Policy
+Added Arun.Kumar@insmed.com to Temps_Consultants_Password_Policy
+Added Ray.Schaft@insmed.com to Temps_Consultants_Password_Policy
+Added Richard.Poole@insmed.com to Temps_Consultants_Password_Policy
+Added Avinash.Ganesh@insmed.com to Temps_Consultants_Password_Policy
+Added Kristen.Naimoli@insmed.com to Temps_Consultants_Password_Policy
+Added Kymberly.Penson@insmed.com to Temps_Consultants_Password_Policy
+Added Santharubban.S@insmed.com to Temps_Consultants_Password_Policy
+Added Grant.Hofmann@insmed.com to Temps_Consultants_Password_Policy
+Added Vamshi.Buddolu@insmed.com to Temps_Consultants_Password_Policy
+Added Omar.AlKayed@insmed.com to Temps_Consultants_Password_Policy
+Added Anthony.Troy@insmed.com to Temps_Consultants_Password_Policy
+Added David.Swanson@insmed.com to Temps_Consultants_Password_Policy
+Added Benjamin.Assmus@insmed.com to Temps_Consultants_Password_Policy
+Added Sathyabama.Hari@insmed.com to Temps_Consultants_Password_Policy
+Added Madeline.Harding@insmed.com to Temps_Consultants_Password_Policy
+Added Security@insmed.com to Temps_Consultants_Password_Policy
+Added Rebecca.Webster@insmed.com to Temps_Consultants_Password_Policy
+Added Annegret.Wiesner@insmed.com to Temps_Consultants_Password_Policy
+Added Melissa.Zaman@insmed.com to Temps_Consultants_Password_Policy
+Added William.Russell@insmed.com to Temps_Consultants_Password_Policy
+Added Deepika.Majumdar@insmed.com to Temps_Consultants_Password_Policy
+Added Michelle.Kress@insmed.com to Temps_Consultants_Password_Policy
+Added Daniel.Lapetina@insmed.com to Temps_Consultants_Password_Policy
+Added Srini.Mudalagiriyappa@insmed.com to Temps_Consultants_Password_Policy
+Added Tanvi.Sharma@insmed.com to Temps_Consultants_Password_Policy
+Added Sanchari.Dasgupta@insmed.com to Temps_Consultants_Password_Policy
+Added Tomoko.Hayakawa@insmed.com to Temps_Consultants_Password_Policy
+Added Junichi.Kikuchi@insmed.com to Temps_Consultants_Password_Policy
+Added Tyler.Jarman@insmed.com to Temps_Consultants_Password_Policy
+Added Barbara.Moser@insmed.com to Temps_Consultants_Password_Policy
+Added Emily.Theys@insmed.com to Temps_Consultants_Password_Policy
+Added Eduardo.Rodriguez@insmed.com to Temps_Consultants_Password_Policy
+Added Christopher.Frank@insmed.com to Temps_Consultants_Password_Policy
+Added Stacy.Auer@insmed.com to Temps_Consultants_Password_Policy
+Added Pranita.Mehta@insmed.com to Temps_Consultants_Password_Policy
+Added Lacy.Clark@insmed.com to Temps_Consultants_Password_Policy
+Added Rachel.Evans@insmed.com to Temps_Consultants_Password_Policy
+Added Stephen.Gluth@insmed.com to Temps_Consultants_Password_Policy
+Added Joel.Seskin@insmed.com to Temps_Consultants_Password_Policy
+Added David.Alper@insmed.com to Temps_Consultants_Password_Policy
+Added Lauren.Pierson@insmed.com to Temps_Consultants_Password_Policy
+Added David.Collins@insmed.com to Temps_Consultants_Password_Policy
+Added Gurusiddappa.Baliger@insmed.com to Temps_Consultants_Password_Policy
+Added Jennifer.peng@insmed.com to Temps_Consultants_Password_Policy
+Added Venkat.Sayani@insmed.com to Temps_Consultants_Password_Policy
+Added Tawan.Booth@insmed.com to Temps_Consultants_Password_Policy
+Added Tarunjot.Singh@insmed.com to Temps_Consultants_Password_Policy
+Added Devin.Snead@insmed.com to Temps_Consultants_Password_Policy
+Added Nikunj.Gadoya@insmed.com to Temps_Consultants_Password_Policy
+Added Sneha.Das@insmed.com to Temps_Consultants_Password_Policy
+Added Nisha.Thoprath@insmed.com to Temps_Consultants_Password_Policy
+Added Sonia.Font@insmed.com to Temps_Consultants_Password_Policy
+Added Megan.Munn@insmed.com to Temps_Consultants_Password_Policy
+Added Pratik.Patil@insmed.com to Temps_Consultants_Password_Policy
+Added Samuel.Godwin@insmed.com to Temps_Consultants_Password_Policy
+Added Hrithik.Saxena@insmed.com to Temps_Consultants_Password_Policy
+Added Aftab.Singh@insmed.com to Temps_Consultants_Password_Policy
+Added Dimitri.Desmet@insmed.com to Temps_Consultants_Password_Policy
+Added alejandro.galvez@insmed.com to Temps_Consultants_Password_Policy
+Added Priyanka.Charles@insmed.com to Temps_Consultants_Password_Policy
+Added Evan.Sadowsky@insmed.com to Temps_Consultants_Password_Policy
+Added Tim.Ho@insmed.com to Temps_Consultants_Password_Policy
+Added Mizrahim.Sapon@insmed.com to Temps_Consultants_Password_Policy
+Added Reena.Devulapally@insmed.com to Temps_Consultants_Password_Policy
+Added Mandar.Lad@insmed.com to Temps_Consultants_Password_Policy
+Added Ulfath.Shama@insmed.com to Temps_Consultants_Password_Policy
+Added Ewinka.Romulus@insmed.com to Temps_Consultants_Password_Policy
+Added Rohit.Bherviya@insmed.com to Temps_Consultants_Password_Policy
+Added Ritu.Sachan@insmed.com to Temps_Consultants_Password_Policy
+Added Michele.Harrison@insmed.com to Temps_Consultants_Password_Policy
+Added Nirali.Raja@insmed.com to Temps_Consultants_Password_Policy
+Added Surbhi.Jaiswal@insmed.com to Temps_Consultants_Password_Policy
+Added Vedagiri.Ramyasree@insmed.com to Temps_Consultants_Password_Policy
+Added AmitKumar.Gosh@insmed.com to Temps_Consultants_Password_Policy
+Added Bjorn.Augustsson@insmed.com to Temps_Consultants_Password_Policy
+Added Mark.Melanson@insmed.com to Temps_Consultants_Password_Policy
+Added Ashok.Rimmalapudi@insmed.com to Temps_Consultants_Password_Policy
+Added Anantha.Dasari@insmed.com to Temps_Consultants_Password_Policy
+Added Radhika.Nallamilli@insmed.com to Temps_Consultants_Password_Policy
+Added Jacob.Hobart@insmed.com to Temps_Consultants_Password_Policy
+Added Mark.Boyer@insmed.com to Temps_Consultants_Password_Policy
+Added Zara.Zialiene@insmed.com to Temps_Consultants_Password_Policy
+Added Hasnae.Abouhilal@insmed.com to Temps_Consultants_Password_Policy
+Added Joshua.DAngelo@insmed.com to Temps_Consultants_Password_Policy
+Added Michelle.Ledbetter@insmed.com to Temps_Consultants_Password_Policy
+Added Sydney.Dull@insmed.com to Temps_Consultants_Password_Policy
+Added Idalys.Velez@insmed.com to Temps_Consultants_Password_Policy
+Added Kishore.N@insmed.com to Temps_Consultants_Password_Policy
+Added Anuradha.RPai@insmed.com to Temps_Consultants_Password_Policy
+Added Maria.Sogaard@insmed.com to Temps_Consultants_Password_Policy
+Added Charlene.Ryan@insmed.com to Temps_Consultants_Password_Policy
+Added Yuko.Hayakawa@insmed.com to Temps_Consultants_Password_Policy
+Added Vish.Vallu@insmed.com to Temps_Consultants_Password_Policy
+Added Stephanie.Espinoza@insmed.com to Temps_Consultants_Password_Policy
+Added Shevanne.Utsey@insmed.com to Temps_Consultants_Password_Policy
+Added Jordan.Novick@insmed.com to Temps_Consultants_Password_Policy
+Added Herbert.Schwab@insmed.com to Temps_Consultants_Password_Policy
+Added Kartheek.Vangala@insmed.com to Temps_Consultants_Password_Policy
+Added Jill.Thaisz@insmed.com to Temps_Consultants_Password_Policy
+Added Laura.Squire@insmed.com to Temps_Consultants_Password_Policy
+Added Jim.Volpe@insmed.com to Temps_Consultants_Password_Policy
+Added Anuradha.Verma@insmed.com to Temps_Consultants_Password_Policy
+Added Naoko.Ohtake@insmed.com to Temps_Consultants_Password_Policy
+Added Balaji.Thyagarajan@insmed.com to Temps_Consultants_Password_Policy
+Added Abhishek.Bajpai@insmed.com to Temps_Consultants_Password_Policy
+Added Krishna.S@insmed.com to Temps_Consultants_Password_Policy
+Added Ugandar.Rasineni@insmed.com to Temps_Consultants_Password_Policy
+Added Pritam.Das@insmed.com to Temps_Consultants_Password_Policy
+Added Prasoon.Yadav@insmed.com to Temps_Consultants_Password_Policy
+Added Anastasia.Krivopalova@insmed.com to Temps_Consultants_Password_Policy
+Added Suriya.Raj@insmed.com to Temps_Consultants_Password_Policy
+Added Sean.Lyons@insmed.com to Temps_Consultants_Password_Policy
+Added Neeraj.Kumar@insmed.com to Temps_Consultants_Password_Policy
+Added AshishKumar.G@insmed.com to Temps_Consultants_Password_Policy
+Added Brian.Oshaughnes@insmed.com to Temps_Consultants_Password_Policy
+Added Walter.Reinoehl@insmed.com to Temps_Consultants_Password_Policy
+Added Kelsey.Balcar@insmed.com to Temps_Consultants_Password_Policy
+Added Lakshita.Ahuja@insmed.com to Temps_Consultants_Password_Policy
+Added Swaranjeet.Singh@insmed.com to Temps_Consultants_Password_Policy
+Added Satish.Hemadri@insmed.com to Temps_Consultants_Password_Policy
+Added Anto.Mathu@insmed.com to Temps_Consultants_Password_Policy
+Added Priyanka.Rane@insmed.com to Temps_Consultants_Password_Policy
+Added Prince.Earnest@insmed.com to Temps_Consultants_Password_Policy
+Added Prachi.Mahajan@insmed.com to Temps_Consultants_Password_Policy
+Added Adeel.Khan@insmed.com to Temps_Consultants_Password_Policy
+Added Alexander.Jones@insmed.com to Temps_Consultants_Password_Policy
+Added Nathalie.Frontczak@insmed.com to Temps_Consultants_Password_Policy
+Added Puneet.Kumar@insmed.com to Temps_Consultants_Password_Policy
+Added Steve.Henrie@insmed.com to Temps_Consultants_Password_Policy
+Added Helga.Nitz@insmed.com to Temps_Consultants_Password_Policy
+Added Joseph.Meskey@insmed.com to Temps_Consultants_Password_Policy
+Added Kazuyo.Ike@insmed.com to Temps_Consultants_Password_Policy
+Added Stanley.Moses@insmed.com to Temps_Consultants_Password_Policy
+Added Rishikesh.Sardeshmukh@insmed.com to Temps_Consultants_Password_Policy
+Added Krutik.Patel@insmed.com to Temps_Consultants_Password_Policy
+Added Corrine.Trippetti@insmed.com to Temps_Consultants_Password_Policy
+Added Masayuki.Aoki@insmed.com to Temps_Consultants_Password_Policy
+Added Yuta.Takahashi@insmed.com to Temps_Consultants_Password_Policy
+Added Martha.Correa@insmed.com to Temps_Consultants_Password_Policy
+Added Siva.Palanisamy@insmed.com to Temps_Consultants_Password_Policy
+Added Jessica.Reilly@insmed.com to Temps_Consultants_Password_Policy
+Added Paul.Hughes@insmed.com to Temps_Consultants_Password_Policy
+Added Yuka.Higaki@insmed.com to Temps_Consultants_Password_Policy
+Added Charlie.McMullan@insmed.com to Temps_Consultants_Password_Policy
+Added Mayuresh.Chopade@insmed.com to Temps_Consultants_Password_Policy
+Added Zoe.Farrington@insmed.com to Temps_Consultants_Password_Policy
+Added Hanna.Waldmann@insmed.com to Temps_Consultants_Password_Policy
+Added Nicole.Eudelle@insmed.com to Temps_Consultants_Password_Policy
+Added Annette.Thwaites@insmed.com to Temps_Consultants_Password_Policy
+Added Nagaraj.Katare@insmed.com to Temps_Consultants_Password_Policy
+Added Sheetal.Joshi@insmed.com to Temps_Consultants_Password_Policy
+Added Aprajita.Garg@insmed.com to Temps_Consultants_Password_Policy
+Added Emma.Householder@insmed.com to Temps_Consultants_Password_Policy
+Added Sagar.Ingale@insmed.com to Temps_Consultants_Password_Policy
+Added Rashmi.Texidor@insmed.com to Temps_Consultants_Password_Policy
+Added Kesanakurthy.Kishan@insmed.com to Temps_Consultants_Password_Policy
+Added Nicole.Serraton@insmed.com to Temps_Consultants_Password_Policy
+Added Shannon.Meagher@insmed.com to Temps_Consultants_Password_Policy
+Added Prajakta.Badachikar@insmed.com to Temps_Consultants_Password_Policy
+Added Vishal.Vinodkumar@insmed.com to Temps_Consultants_Password_Policy
+Added Olga.Pergament@insmed.com to Temps_Consultants_Password_Policy
+Added Sajan.George@insmed.com to Temps_Consultants_Password_Policy
+Added lakshmi.chalasani@insmed.com to Temps_Consultants_Password_Policy
+Added Mainak.Nath@insmed.com to Temps_Consultants_Password_Policy
+Added Sucheta.Bhalkar@insmed.com to Temps_Consultants_Password_Policy
+Added Diana.Nambi@insmed.com to Temps_Consultants_Password_Policy
+Added Luigi.Picaro@insmed.com to Temps_Consultants_Password_Policy
+Added Alexandra.Brush@insmed.com to Temps_Consultants_Password_Policy
+Added Hari.Manthena@insmed.com to Temps_Consultants_Password_Policy
+Added Deborah.Kogan@insmed.com to Temps_Consultants_Password_Policy
+Added Helene.Optlandt@insmed.com to Temps_Consultants_Password_Policy
+Added Fred.Shurte@insmed.com to Temps_Consultants_Password_Policy
+Added Sharon.Hardy@insmed.com to Temps_Consultants_Password_Policy
+Added Masaaki.Katano@insmed.com to Temps_Consultants_Password_Policy
+Added Juri.Fukuda@insmed.com to Temps_Consultants_Password_Policy
+Added Daichi.Takahashi@insmed.com to Temps_Consultants_Password_Policy
+Added Navneet.Kang@insmed.com to Temps_Consultants_Password_Policy
+Added Caroline.Steensels@insmed.com to Temps_Consultants_Password_Policy
+**********************
+Windows PowerShell transcript end
+End time: 20220817103103
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221215103934
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\Add-ADUsers_Temps.log
+PS>TerminatingError(Add-ADGroupMember): "Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'."
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], 
+ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Mic
+rosoft.ActiveDirectory.Management.Commands.AddADGroupMember
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Microsoft.ActiveDi
+   rectory.Management.Commands.AddADGroupMember
+
+Added a-Adarsha.Shasthry@insmed.com to 700_INSAWS700DC02_RDP
+PS>TerminatingError(Add-ADGroupMember): "Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'."
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], 
+ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Mic
+rosoft.ActiveDirectory.Management.Commands.AddADGroupMember
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Microsoft.ActiveDi
+   rectory.Management.Commands.AddADGroupMember
+
+Added a-Joseph.Stanlein@insmed.com to 700_INSAWS700DC02_RDP
+PS>TerminatingError(Add-ADGroupMember): "Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'."
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], 
+ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Mic
+rosoft.ActiveDirectory.Management.Commands.AddADGroupMember
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Microsoft.ActiveDi
+   rectory.Management.Commands.AddADGroupMember
+
+Added a-Ashok.Kumar@insmed.com to 700_INSAWS700DC02_RDP
+a-Harkit.Singh@insmed.com does not exist in AD
+PS>TerminatingError(Add-ADGroupMember): "Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'."
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], 
+ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Mic
+rosoft.ActiveDirectory.Management.Commands.AddADGroupMember
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Microsoft.ActiveDi
+   rectory.Management.Commands.AddADGroupMember
+
+Added a-Sunil.Kumar@insmed.com to 700_INSAWS700DC02_RDP
+PS>TerminatingError(Add-ADGroupMember): "Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'."
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], 
+ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Mic
+rosoft.ActiveDirectory.Management.Commands.AddADGroupMember
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Microsoft.ActiveDi
+   rectory.Management.Commands.AddADGroupMember
+
+Added a-Shelby.Mader@insmed.com to 700_INSAWS700DC02_RDP
+PS>TerminatingError(Add-ADGroupMember): "Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'."
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], 
+ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Mic
+rosoft.ActiveDirectory.Management.Commands.AddADGroupMember
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Microsoft.ActiveDi
+   rectory.Management.Commands.AddADGroupMember
+
+Added a-Lokesh.BK@insmed.com to 700_INSAWS700DC02_RDP
+PS>TerminatingError(Add-ADGroupMember): "Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'."
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], 
+ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Mic
+rosoft.ActiveDirectory.Management.Commands.AddADGroupMember
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Microsoft.ActiveDi
+   rectory.Management.Commands.AddADGroupMember
+
+Added a-Chitra.Babu@insmed.com to 700_INSAWS700DC02_RDP
+PS>TerminatingError(Add-ADGroupMember): "Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'."
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], 
+ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Mic
+rosoft.ActiveDirectory.Management.Commands.AddADGroupMember
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Microsoft.ActiveDi
+   rectory.Management.Commands.AddADGroupMember
+
+Added a-Anil.Prajapati@insmed.com to 700_INSAWS700DC02_RDP
+PS>TerminatingError(Add-ADGroupMember): "Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'."
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], 
+ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Mic
+rosoft.ActiveDirectory.Management.Commands.AddADGroupMember
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Microsoft.ActiveDi
+   rectory.Management.Commands.AddADGroupMember
+
+Added a-Priyatham.Sagar@insmed.com to 700_INSAWS700DC02_RDP
+PS>TerminatingError(Add-ADGroupMember): "Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'."
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], 
+ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Mic
+rosoft.ActiveDirectory.Management.Commands.AddADGroupMember
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Microsoft.ActiveDi
+   rectory.Management.Commands.AddADGroupMember
+
+Added a-Bill.Eyer@insmed.com to 700_INSAWS700DC02_RDP
+PS>TerminatingError(Add-ADGroupMember): "Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'."
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], 
+ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Mic
+rosoft.ActiveDirectory.Management.Commands.AddADGroupMember
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Microsoft.ActiveDi
+   rectory.Management.Commands.AddADGroupMember
+
+Added Chris.Wess@insmed.com to 700_INSAWS700DC02_RDP
+PS>TerminatingError(Add-ADGroupMember): "Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'."
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], 
+ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Mic
+rosoft.ActiveDirectory.Management.Commands.AddADGroupMember
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Microsoft.ActiveDi
+   rectory.Management.Commands.AddADGroupMember
+
+Added a-Jordan.Novick@insmed.com to 700_INSAWS700DC02_RDP
+PS>TerminatingError(Add-ADGroupMember): "Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'."
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], 
+ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Mic
+rosoft.ActiveDirectory.Management.Commands.AddADGroupMember
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Microsoft.ActiveDi
+   rectory.Management.Commands.AddADGroupMember
+
+Added a-Joseph.Stanlein@insmed.com to 700_INSAWS700DC02_RDP
+PS>TerminatingError(Add-ADGroupMember): "Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'."
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], 
+ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Mic
+rosoft.ActiveDirectory.Management.Commands.AddADGroupMember
+Add-ADGroupMember : Cannot find an object with identity: '700_INSAWS700DC02_RDP' under: 'DC=insmed,DC=local'.
+At line:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (700_INSAWS700DC02_RDP:ADGroup) [Add-ADGroupMember], ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Microsoft.ActiveDi
+   rectory.Management.Commands.AddADGroupMember
+
+Added logrhythm@insmed.com to 700_INSAWS700DC02_RDP
+**********************
+Windows PowerShell transcript end
+End time: 20221215103938
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221215104059
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\Add-ADUsers_Temps.log
+Added a-Adarsha.Shasthry@insmed.com to CN=700_INS700DC02_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Joseph.Stanlein@insmed.com to CN=700_INS700DC02_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Ashok.Kumar@insmed.com to CN=700_INS700DC02_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Harjit.Singh@insmed.com to CN=700_INS700DC02_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Sunil.Kumar@insmed.com to CN=700_INS700DC02_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Shelby.Mader@insmed.com to CN=700_INS700DC02_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Lokesh.BK@insmed.com to CN=700_INS700DC02_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Chitra.Babu@insmed.com to CN=700_INS700DC02_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Anil.Prajapati@insmed.com to CN=700_INS700DC02_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Priyatham.Sagar@insmed.com to CN=700_INS700DC02_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Bill.Eyer@insmed.com to CN=700_INS700DC02_RDP,OU=Remote Access,DC=insmed,DC=local
+Added Chris.Wess@insmed.com to CN=700_INS700DC02_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Jordan.Novick@insmed.com to CN=700_INS700DC02_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Joseph.Stanlein@insmed.com to CN=700_INS700DC02_RDP,OU=Remote Access,DC=insmed,DC=local
+Added logrhythm@insmed.com to CN=700_INS700DC02_RDP,OU=Remote Access,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221215104102
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221215104432
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\Add-ADUsers_Temps.log
+Added a-Adarsha.Shasthry@insmed.com to CN=RDL_INSRDLDC_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Joseph.Stanlein@insmed.com to CN=RDL_INSRDLDC_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Ashok.Kumar@insmed.com to CN=RDL_INSRDLDC_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Harjit.Singh@insmed.com to CN=RDL_INSRDLDC_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Sunil.Kumar@insmed.com to CN=RDL_INSRDLDC_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Shelby.Mader@insmed.com to CN=RDL_INSRDLDC_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Lokesh.BK@insmed.com to CN=RDL_INSRDLDC_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Chitra.Babu@insmed.com to CN=RDL_INSRDLDC_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Anil.Prajapati@insmed.com to CN=RDL_INSRDLDC_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Priyatham.Sagar@insmed.com to CN=RDL_INSRDLDC_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Bill.Eyer@insmed.com to CN=RDL_INSRDLDC_RDP,OU=Remote Access,DC=insmed,DC=local
+Added Chris.Wess@insmed.com to CN=RDL_INSRDLDC_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Jordan.Novick@insmed.com to CN=RDL_INSRDLDC_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Joseph.Stanlein@insmed.com to CN=RDL_INSRDLDC_RDP,OU=Remote Access,DC=insmed,DC=local
+Added logrhythm@insmed.com to CN=RDL_INSRDLDC_RDP,OU=Remote Access,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221215104435
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221215104517
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\Add-ADUsers_Temps.log
+PS>TerminatingError(Get-ADUser): "The search filter cannot be recognized"
+Get-ADUser : The search filter cannot be recognized
+At line:19 char:15
++ ...   $ADUser = Get-ADUser -Filter "UserPrincipalName -eq '$UPN'" | Selec ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [Get-ADUser], ADException
+    + FullyQualifiedErrorId : ActiveDirectoryServer:8254,Microsoft.ActiveDirectory.Management.Commands.GetADUser
+Get-ADUser : The search filter cannot be recognized
+At line:19 char:15
++ ...   $ADUser = Get-ADUser -Filter "UserPrincipalName -eq '$UPN'" | Selec ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [Get-ADUser], ADException
+    + FullyQualifiedErrorId : ActiveDirectoryServer:8254,Microsoft.ActiveDirectory.Management.Commands.GetADUser
+
+Added  to CN=SD_INSSDDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+PS>TerminatingError(Get-ADUser): "The search filter cannot be recognized"
+Get-ADUser : The search filter cannot be recognized
+At line:19 char:15
++ ...   $ADUser = Get-ADUser -Filter "UserPrincipalName -eq '$UPN'" | Selec ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [Get-ADUser], ADException
+    + FullyQualifiedErrorId : ActiveDirectoryServer:8254,Microsoft.ActiveDirectory.Management.Commands.GetADUser
+Get-ADUser : The search filter cannot be recognized
+At line:19 char:15
++ ...   $ADUser = Get-ADUser -Filter "UserPrincipalName -eq '$UPN'" | Selec ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [Get-ADUser], ADException
+    + FullyQualifiedErrorId : ActiveDirectoryServer:8254,Microsoft.ActiveDirectory.Management.Commands.GetADUser
+
+Added  to CN=SD_INSSDDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+PS>TerminatingError(Get-ADUser): "The search filter cannot be recognized"
+Get-ADUser : The search filter cannot be recognized
+At line:19 char:15
++ ...   $ADUser = Get-ADUser -Filter "UserPrincipalName -eq '$UPN'" | Selec ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [Get-ADUser], ADException
+    + FullyQualifiedErrorId : ActiveDirectoryServer:8254,Microsoft.ActiveDirectory.Management.Commands.GetADUser
+Get-ADUser : The search filter cannot be recognized
+At line:19 char:15
++ ...   $ADUser = Get-ADUser -Filter "UserPrincipalName -eq '$UPN'" | Selec ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [Get-ADUser], ADException
+    + FullyQualifiedErrorId : ActiveDirectoryServer:8254,Microsoft.ActiveDirectory.Management.Commands.GetADUser
+
+Added  to CN=SD_INSSDDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221215104518
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221215104550
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\Add-ADUsers_Temps.log
+Added a-Adarsha.Shasthry@insmed.com to CN=SD_INSSDDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Joseph.Stanlein@insmed.com to CN=SD_INSSDDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Ashok.Kumar@insmed.com to CN=SD_INSSDDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Harjit.Singh@insmed.com to CN=SD_INSSDDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Sunil.Kumar@insmed.com to CN=SD_INSSDDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Shelby.Mader@insmed.com to CN=SD_INSSDDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Lokesh.BK@insmed.com to CN=SD_INSSDDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Chitra.Babu@insmed.com to CN=SD_INSSDDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Anil.Prajapati@insmed.com to CN=SD_INSSDDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Priyatham.Sagar@insmed.com to CN=SD_INSSDDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Bill.Eyer@insmed.com to CN=SD_INSSDDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added Chris.Wess@insmed.com to CN=SD_INSSDDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Jordan.Novick@insmed.com to CN=SD_INSSDDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Joseph.Stanlein@insmed.com to CN=SD_INSSDDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added logrhythm@insmed.com to CN=SD_INSSDDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221215104553
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221215104856
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\Add-ADUsers_Temps.log
+Added a-Adarsha.Shasthry@insmed.com to CN=UK_INSUKDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Joseph.Stanlein@insmed.com to CN=UK_INSUKDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Ashok.Kumar@insmed.com to CN=UK_INSUKDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Harjit.Singh@insmed.com to CN=UK_INSUKDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Sunil.Kumar@insmed.com to CN=UK_INSUKDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Shelby.Mader@insmed.com to CN=UK_INSUKDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Lokesh.BK@insmed.com to CN=UK_INSUKDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Chitra.Babu@insmed.com to CN=UK_INSUKDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Anil.Prajapati@insmed.com to CN=UK_INSUKDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Priyatham.Sagar@insmed.com to CN=UK_INSUKDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Bill.Eyer@insmed.com to CN=UK_INSUKDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added Chris.Wess@insmed.com to CN=UK_INSUKDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Jordan.Novick@insmed.com to CN=UK_INSUKDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added a-Joseph.Stanlein@insmed.com to CN=UK_INSUKDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+Added logrhythm@insmed.com to CN=UK_INSUKDC01_RDP,OU=Remote Access,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221215104900
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221215110836
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\Add-ADUsers_Temps.log
+Added a-Adarsha.Shasthry@insmed.com to CN=700_INS700HYPERV01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Anil.Prajapati@insmed.com to CN=700_INS700HYPERV01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Bill.Eyer@insmed.com to CN=700_INS700HYPERV01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Chitra.Babu@insmed.com to CN=700_INS700HYPERV01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Lokesh.BK@insmed.com to CN=700_INS700HYPERV01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Petrina.Ma@insmed.com to CN=700_INS700HYPERV01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Priyatham.Sagar@insmed.com to CN=700_INS700HYPERV01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Shelby.Mader@insmed.com to CN=700_INS700HYPERV01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Mounika.Thalla@insmed.com to CN=700_INS700HYPERV01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Chris_Wess@insmed.com does not exist in AD
+Added a-Jordan.Novick@insmed.com to CN=700_INS700HYPERV01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-joseph.stanlein@insmed.com to CN=700_INS700HYPERV01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221215110838
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221215111312
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\Add-ADUsers_Temps.log
+Added a-Adarsha.Shasthry@insmed.com to CN=700_INS700PRINT01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Anil.Prajapati@insmed.com to CN=700_INS700PRINT01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Bill.Eyer@insmed.com to CN=700_INS700PRINT01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Chitra.Babu@insmed.com to CN=700_INS700PRINT01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Lokesh.BK@insmed.com to CN=700_INS700PRINT01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Chris.Wess@insmed.com to CN=700_INS700PRINT01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Jordan.Novick@insmed.com to CN=700_INS700PRINT01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-joseph.stanlein@insmed.com to CN=700_INS700PRINT01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Priyatham.Sagar@insmed.com to CN=700_INS700PRINT01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Shelby.Mader@insmed.com to CN=700_INS700PRINT01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added scanner@insmed.com to CN=700_INS700PRINT01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+a-nitin.sikhiya@insmed.com does not exist in AD
+Added a-ketulkumar.patel@insmed.com to CN=700_INS700PRINT01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-molly.correia@insmed.com to CN=700_INS700PRINT01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-samuel.dzifanu@insmed.com to CN=700_INS700PRINT01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-violetta.dilanyan@insmed.com to CN=700_INS700PRINT01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Aissam.Elfadil@insmed.com to CN=700_INS700PRINT01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Yogesh.Devaraj@insmed.com to CN=700_INS700PRINT01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221215111316
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221215111553
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\Add-ADUsers_Temps.log
+Added a-Adarsha.Shasthry@insmed.com to CN=700_INS700FS01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Joseph.Stanlein@insmed.com to CN=700_INS700FS01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Ashok.Kumar@insmed.com to CN=700_INS700FS01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Harjit.Singh@insmed.com to CN=700_INS700FS01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Sunil.Kumar@insmed.com to CN=700_INS700FS01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Shelby.Mader@insmed.com to CN=700_INS700FS01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Lokesh.BK@insmed.com to CN=700_INS700FS01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Chitra.Babu@insmed.com to CN=700_INS700FS01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Anil.Prajapati@insmed.com to CN=700_INS700FS01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Priyatham.Sagar@insmed.com to CN=700_INS700FS01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Bill.Eyer@insmed.com to CN=700_INS700FS01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Chris.Wess@insmed.com to CN=700_INS700FS01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Jordan.Novick@insmed.com to CN=700_INS700FS01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Joseph.Stanlein@insmed.com to CN=700_INS700FS01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Aissam.Elfadil@insmed.com to CN=700_INS700FS01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Mounika.Thalla@insmed.com to CN=700_INS700FS01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+scanner does not exist in AD
+Netwrix.service does not exist in AD
+**********************
+Windows PowerShell transcript end
+End time: 20221215111557
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221215112207
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\Add-ADUsers_Temps.log
+Added a-Adarsha.Shasthry@insmed.com to CN=JP_INSJPFS01_RDP,OU=Japan,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Anil.Prajapati@insmed.com to CN=JP_INSJPFS01_RDP,OU=Japan,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Bill.Eyer@insmed.com to CN=JP_INSJPFS01_RDP,OU=Japan,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Chitra.Babu@insmed.com to CN=JP_INSJPFS01_RDP,OU=Japan,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Lokesh.BK@insmed.com to CN=JP_INSJPFS01_RDP,OU=Japan,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Chris_Wess@insmed.com does not exist in AD
+Added a-Jordan.Novick@insmed.com to CN=JP_INSJPFS01_RDP,OU=Japan,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-joseph.stanlein@insmed.com to CN=JP_INSJPFS01_RDP,OU=Japan,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Priyatham.Sagar@insmed.com to CN=JP_INSJPFS01_RDP,OU=Japan,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Shelby.Mader@insmed.com to CN=JP_INSJPFS01_RDP,OU=Japan,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added haresh.hirani@insmed.com to CN=JP_INSJPFS01_RDP,OU=Japan,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-junichi.kikuchi@insmed.com to CN=JP_INSJPFS01_RDP,OU=Japan,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221215112210
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221215113323
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\Add-ADUsers_Temps.log
+Added a-Adarsha.Shasthry@insmed.com to CN=RDL_INSRDLEMPDB01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Anil.Prajapati@insmed.com to CN=RDL_INSRDLEMPDB01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Bill.Eyer@insmed.com to CN=RDL_INSRDLEMPDB01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Chitra.Babu@insmed.com to CN=RDL_INSRDLEMPDB01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Lokesh.BK@insmed.com to CN=RDL_INSRDLEMPDB01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Chris.Wess@insmed.com to CN=RDL_INSRDLEMPDB01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Jordan.Novick@insmed.com to CN=RDL_INSRDLEMPDB01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-joseph.stanlein@insmed.com to CN=RDL_INSRDLEMPDB01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Priyatham.Sagar@insmed.com to CN=RDL_INSRDLEMPDB01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Shelby.Mader@insmed.com to CN=RDL_INSRDLEMPDB01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221215113326
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221215113626
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\Add-ADUsers_Temps.log
+Added a-Adarsha.Shasthry@insmed.com to CN=RDL_INSCOEVUE_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Anil.Prajapati@insmed.com to CN=RDL_INSCOEVUE_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Bill.Eyer@insmed.com to CN=RDL_INSCOEVUE_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Chitra.Babu@insmed.com to CN=RDL_INSCOEVUE_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Lokesh.BK@insmed.com to CN=RDL_INSCOEVUE_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Chris.Wess@insmed.com to CN=RDL_INSCOEVUE_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Jordan.Novick@insmed.com to CN=RDL_INSCOEVUE_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-joseph.stanlein@insmed.com to CN=RDL_INSCOEVUE_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Priyatham.Sagar@insmed.com to CN=RDL_INSCOEVUE_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Shelby.Mader@insmed.com to CN=RDL_INSCOEVUE_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Mounika.Thalla@insmed.com to CN=RDL_INSCOEVUE_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Shayla.Gamble@insmed.com to CN=RDL_INSCOEVUE_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Donna.Liquari@insmed.com to CN=RDL_INSCOEVUE_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221215113631
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221215114055
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\Add-ADUsers_Temps.log
+Added a-Adarsha.Shasthry@insmed.com to CN=RDL_INSRDLEMPDB01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Anil.Prajapati@insmed.com to CN=RDL_INSRDLEMPDB01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Bill.Eyer@insmed.com to CN=RDL_INSRDLEMPDB01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Chitra.Babu@insmed.com to CN=RDL_INSRDLEMPDB01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Lokesh.BK@insmed.com to CN=RDL_INSRDLEMPDB01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Chris.Wess@insmed.com to CN=RDL_INSRDLEMPDB01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Jordan.Novick@insmed.com to CN=RDL_INSRDLEMPDB01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-joseph.stanlein@insmed.com to CN=RDL_INSRDLEMPDB01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Priyatham.Sagar@insmed.com to CN=RDL_INSRDLEMPDB01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Shelby.Mader@insmed.com to CN=RDL_INSRDLEMPDB01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221215114058
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221215114233
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\Add-ADUsers_Temps.log
+Added a-Adarsha.Shasthry@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Anil.Prajapati@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-adarsha.shasthry@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Bill.Eyer@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Chitra.Babu@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Lokesh.BK@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Chris.Wess@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Jordan.Novick@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-joseph.stanlein@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Priyatham.Sagar@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Shelby.Mader@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+WatersService@insmed.com does not exist in AD
+Added Adam.Plaunt@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Amruta.Sabnis@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Antonio.Macaluso@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Binh.Chu@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Bushra.Valiulla@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Chirag.Yadav@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Daniel.Lasala@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Donald.Chun@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Donna.Konicek@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Donna.Liquari@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Elle.Lang@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Franziska.Leifer@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Helena.Gauani@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Jagdish.Prajapati@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Kuan-Ju.Chen@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added LabUser@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added LabUser1@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added LabUser.QC@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Mary.Nashed@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Michael.Fink@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Robert.Staubach@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Roger.Hsu@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Sachin.Gharse@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Sadikul.Islam@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added sasha.rose@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Shayla.Gamble@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Stefanie.Decker@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added thomas.baker@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Toni.Shaler@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Vanessa.Richter@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Veronica.Garcia@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Vladimir.Malinin@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Xiao.Hua@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Xizhe.Zhao@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added yuchen.zhou@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Zhili.Li@insmed.com" does not exist in AD
+**********************
+Windows PowerShell transcript end
+End time: 20221215114255
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221215114659
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\Add-ADUsers_Temps.log
+Added a-Adarsha.Shasthry@insmed.com to CN=RDL_INSRDLUCBKUP_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Anil.Prajapati@insmed.com to CN=RDL_INSRDLUCBKUP_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Bill.Eyer@insmed.com to CN=RDL_INSRDLUCBKUP_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Chitra.Babu@insmed.com to CN=RDL_INSRDLUCBKUP_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Lokesh.BK@insmed.com to CN=RDL_INSRDLUCBKUP_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Chris.Wess@insmed.com to CN=RDL_INSRDLUCBKUP_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Jordan.Novick@insmed.com to CN=RDL_INSRDLUCBKUP_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-joseph.stanlein@insmed.com to CN=RDL_INSRDLUCBKUP_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Priyatham.Sagar@insmed.com to CN=RDL_INSRDLUCBKUP_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Shelby.Mader@insmed.com to CN=RDL_INSRDLUCBKUP_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-joshua.chalmers@insmed.com to CN=RDL_INSRDLUCBKUP_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Ciscoadmin@insmed.com does not exist in AD
+**********************
+Windows PowerShell transcript end
+End time: 20221215114703
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221215115513
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\Add-ADUsers_Temps.log
+Added a-Adarsha.Shasthry@insmed.com to CN=700_INS700SCCM01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Anil.Prajapati@insmed.com to CN=700_INS700SCCM01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Bill.Eyer@insmed.com to CN=700_INS700SCCM01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Chitra.Babu@insmed.com to CN=700_INS700SCCM01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Lokesh.BK@insmed.com to CN=700_INS700SCCM01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Chris.Wess@insmed.com to CN=700_INS700SCCM01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+a.mark.atkins@insmed.com does not exist in AD
+Added a-Jordan.Novick@insmed.com to CN=700_INS700SCCM01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-joseph.stanlein@insmed.com to CN=700_INS700SCCM01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Priyatham.Sagar@insmed.com to CN=700_INS700SCCM01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Shelby.Mader@insmed.com to CN=700_INS700SCCM01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-aissam.elfadil@insmed.com to CN=700_INS700SCCM01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-nithin.sridhar@insmed.com to CN=700_INS700SCCM01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-nitin.sukhiya@insmed.com to CN=700_INS700SCCM01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-violetta.dilanyan@insmed.com to CN=700_INS700SCCM01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added haresh.hirani@insmed.com to CN=700_INS700SCCM01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-ravikanth.pilli@insmed.com to CN=700_INS700SCCM01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221215115517
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221215120049
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\Add-ADUsers_Temps.log
+Added a-Adarsha.Shasthry@insmed.com to CN=700_INS700SCCMPD01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Anil.Prajapati@insmed.com to CN=700_INS700SCCMPD01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Bill.Eyer@insmed.com to CN=700_INS700SCCMPD01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Chitra.Babu@insmed.com to CN=700_INS700SCCMPD01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Lokesh.BK@insmed.com to CN=700_INS700SCCMPD01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Chris.Wess@insmed.com to CN=700_INS700SCCMPD01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Jordan.Novick@insmed.com to CN=700_INS700SCCMPD01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-joseph.stanlein@insmed.com to CN=700_INS700SCCMPD01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Priyatham.Sagar@insmed.com to CN=700_INS700SCCMPD01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Shelby.Mader@insmed.com to CN=700_INS700SCCMPD01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-mark.atkins@insmed.com to CN=700_INS700SCCMPD01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-mounika.thalla@insmed.com to CN=700_INS700SCCMPD01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added ServiceNow.Admin@insmed.com to CN=700_INS700SCCMPD01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+sccm.admin@insmed.com does not exist in AD
+haresh.hasani@insmed.com does not exist in AD
+**********************
+Windows PowerShell transcript end
+End time: 20221215120053
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221215120317
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\Add-ADUsers_Temps.log
+Added a-Adarsha.Shasthry@insmed.com to CN=700_INS700SCCMPD02_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Anil.Prajapati@insmed.com to CN=700_INS700SCCMPD02_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Bill.Eyer@insmed.com to CN=700_INS700SCCMPD02_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Chitra.Babu@insmed.com to CN=700_INS700SCCMPD02_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Lokesh.BK@insmed.com to CN=700_INS700SCCMPD02_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Chris.Wess@insmed.com to CN=700_INS700SCCMPD02_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Jordan.Novick@insmed.com to CN=700_INS700SCCMPD02_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-joseph.stanlein@insmed.com to CN=700_INS700SCCMPD02_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Priyatham.Sagar@insmed.com to CN=700_INS700SCCMPD02_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Shelby.Mader@insmed.com to CN=700_INS700SCCMPD02_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-mark.atkins@insmed.com to CN=700_INS700SCCMPD02_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added Haresh.Hirani@insmed.com to CN=700_INS700SCCMPD02_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+sccm.admin@insmed.com does not exist in AD
+**********************
+Windows PowerShell transcript end
+End time: 20221215120322
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221221112129
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Added a-Ashok.Kumar@insmed.com to CN=700_INS700SCCMPD02_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Harjit.Singh@insmed.com to CN=700_INS700SCCMPD02_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Sunil.Kumar@insmed.com to CN=700_INS700SCCMPD02_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221221112130
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221221112139
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Added a-Ashok.Kumar@insmed.com to CN=700_INS700SCCMPD01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Harjit.Singh@insmed.com to CN=700_INS700SCCMPD01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Sunil.Kumar@insmed.com to CN=700_INS700SCCMPD01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221221112140
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221221112146
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Added a-Ashok.Kumar@insmed.com to CN=700_INS700SCCM01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Harjit.Singh@insmed.com to CN=700_INS700SCCM01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Sunil.Kumar@insmed.com to CN=700_INS700SCCM01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221221112147
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221221112207
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Added a-Ashok.Kumar@insmed.com to CN=RDL_INSRDLUCBKUP_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Harjit.Singh@insmed.com to CN=RDL_INSRDLUCBKUP_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Sunil.Kumar@insmed.com to CN=RDL_INSRDLUCBKUP_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221221112208
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221221112219
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Added a-Ashok.Kumar@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Harjit.Singh@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Sunil.Kumar@insmed.com to CN=RDL_INSRDLEMPTERM01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221221112220
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221221112233
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Added a-Ashok.Kumar@insmed.com to CN=RDL_INSRDLEMPDB01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Harjit.Singh@insmed.com to CN=RDL_INSRDLEMPDB01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Sunil.Kumar@insmed.com to CN=RDL_INSRDLEMPDB01_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221221112234
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221221112239
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Added a-Ashok.Kumar@insmed.com to CN=RDL_INSCOEVUE_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Harjit.Singh@insmed.com to CN=RDL_INSCOEVUE_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Sunil.Kumar@insmed.com to CN=RDL_INSCOEVUE_RDP,OU=RDL,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221221112240
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221221112254
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+PS>TerminatingError(Add-ADGroupMember): "Directory object not found"
+Add-ADGroupMember : Directory object not found
+At C:\temp\Scripts\AD_Scripts\Add\ADD_Bulk_Users_to_Security_Group.ps1:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (CN=JP_INSJPFS01...insmed,DC=local:ADGroup) [Add-ADGroupMember], 
+ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Mic
+rosoft.ActiveDirectory.Management.Commands.AddADGroupMember
+Add-ADGroupMember : Directory object not found
+At C:\temp\Scripts\AD_Scripts\Add\ADD_Bulk_Users_to_Security_Group.ps1:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (CN=JP_INSJPFS01...insmed,DC=local:ADGroup) [Add-ADGroupMember], ADIdentityNotFoundExcept
+   ion
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Microsoft.ActiveDi
+   rectory.Management.Commands.AddADGroupMember
+
+Added a-Ashok.Kumar@insmed.com to CN=JP_INSJPFS01_RDP,OU=JP,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+PS>TerminatingError(Add-ADGroupMember): "Directory object not found"
+Add-ADGroupMember : Directory object not found
+At C:\temp\Scripts\AD_Scripts\Add\ADD_Bulk_Users_to_Security_Group.ps1:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (CN=JP_INSJPFS01...insmed,DC=local:ADGroup) [Add-ADGroupMember], 
+ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Mic
+rosoft.ActiveDirectory.Management.Commands.AddADGroupMember
+Add-ADGroupMember : Directory object not found
+At C:\temp\Scripts\AD_Scripts\Add\ADD_Bulk_Users_to_Security_Group.ps1:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (CN=JP_INSJPFS01...insmed,DC=local:ADGroup) [Add-ADGroupMember], ADIdentityNotFoundExcept
+   ion
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Microsoft.ActiveDi
+   rectory.Management.Commands.AddADGroupMember
+
+Added a-Harjit.Singh@insmed.com to CN=JP_INSJPFS01_RDP,OU=JP,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+PS>TerminatingError(Add-ADGroupMember): "Directory object not found"
+Add-ADGroupMember : Directory object not found
+At C:\temp\Scripts\AD_Scripts\Add\ADD_Bulk_Users_to_Security_Group.ps1:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (CN=JP_INSJPFS01...insmed,DC=local:ADGroup) [Add-ADGroupMember], 
+ADIdentityNotFoundException
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Mic
+rosoft.ActiveDirectory.Management.Commands.AddADGroupMember
+Add-ADGroupMember : Directory object not found
+At C:\temp\Scripts\AD_Scripts\Add\ADD_Bulk_Users_to_Security_Group.ps1:35 char:13
++             Add-ADGroupMember -Identity $Group -Members $ADUser.SamAc ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (CN=JP_INSJPFS01...insmed,DC=local:ADGroup) [Add-ADGroupMember], ADIdentityNotFoundExcept
+   ion
+    + FullyQualifiedErrorId : ActiveDirectoryCmdlet:Microsoft.ActiveDirectory.Management.ADIdentityNotFoundException,Microsoft.ActiveDi
+   rectory.Management.Commands.AddADGroupMember
+
+Added a-Sunil.Kumar@insmed.com to CN=JP_INSJPFS01_RDP,OU=JP,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221221112255
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221221112352
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Added a-Ashok.Kumar@insmed.com to CN=JP_INSJPFS01_RDP,OU=Japan,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Harjit.Singh@insmed.com to CN=JP_INSJPFS01_RDP,OU=Japan,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Sunil.Kumar@insmed.com to CN=JP_INSJPFS01_RDP,OU=Japan,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221221112353
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221221112416
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Added a-Ashok.Kumar@insmed.com to CN=700_INS700FS01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Harjit.Singh@insmed.com to CN=700_INS700FS01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Sunil.Kumar@insmed.com to CN=700_INS700FS01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221221112417
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221221112431
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Added a-Ashok.Kumar@insmed.com to CN=700_INS700PRINT01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Harjit.Singh@insmed.com to CN=700_INS700PRINT01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Sunil.Kumar@insmed.com to CN=700_INS700PRINT01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221221112432
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221221112439
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Added a-Ashok.Kumar@insmed.com to CN=700_INS700HYPERV01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Harjit.Singh@insmed.com to CN=700_INS700HYPERV01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+Added a-Sunil.Kumar@insmed.com to CN=700_INS700HYPERV01_RDP,OU=700,OU=Remote Access,OU=Insmed Groups,OU=Security Groups,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221221112440
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20221222095500
+Username: INSMED\Shelby.Mader
+RunAs User: INSMED\Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 1320
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Added a-Adarsha.Shasthry@insmed.com to CN=Account Operators,CN=Builtin,DC=insmed,DC=local
+Added a-Joseph.Stanlein@insmed.com to CN=Account Operators,CN=Builtin,DC=insmed,DC=local
+Added a-Ashok.Kumar@insmed.com to CN=Account Operators,CN=Builtin,DC=insmed,DC=local
+Added a-Harjit.Singh@insmed.com to CN=Account Operators,CN=Builtin,DC=insmed,DC=local
+Added a-Sunil.Kumar@insmed.com to CN=Account Operators,CN=Builtin,DC=insmed,DC=local
+Added a-Shelby.Mader@insmed.com to CN=Account Operators,CN=Builtin,DC=insmed,DC=local
+Added a-Lokesh.BK@insmed.com to CN=Account Operators,CN=Builtin,DC=insmed,DC=local
+Added a-Chitra.Babu@insmed.com to CN=Account Operators,CN=Builtin,DC=insmed,DC=local
+Added a-Anil.Prajapati@insmed.com to CN=Account Operators,CN=Builtin,DC=insmed,DC=local
+Added a-Priyatham.Sagar@insmed.com to CN=Account Operators,CN=Builtin,DC=insmed,DC=local
+Added a-Bill.Eyer@insmed.com to CN=Account Operators,CN=Builtin,DC=insmed,DC=local
+Added Chris.Wess@insmed.com to CN=Account Operators,CN=Builtin,DC=insmed,DC=local
+Added a-Jordan.Novick@insmed.com to CN=Account Operators,CN=Builtin,DC=insmed,DC=local
+Added a-Joseph.Stanlein@insmed.com to CN=Account Operators,CN=Builtin,DC=insmed,DC=local
+Added a-Ashok.Kumar@insmed.com to CN=Account Operators,CN=Builtin,DC=insmed,DC=local
+Added a-Harjit.Singh@insmed.com to CN=Account Operators,CN=Builtin,DC=insmed,DC=local
+Added a-Sunil.Kumar@insmed.com to CN=Account Operators,CN=Builtin,DC=insmed,DC=local
+Added logrhythm@insmed.com to CN=Account Operators,CN=Builtin,DC=insmed,DC=local
+**********************
+Windows PowerShell transcript end
+End time: 20221222095507
+**********************

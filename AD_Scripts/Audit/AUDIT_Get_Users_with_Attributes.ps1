@@ -1,0 +1,2 @@
+﻿Get-ADuser -Filter * -Properties Name, sAMAccountName, userPrincipalName, department, title, mail, manager, enabled |
+Export-CSV "C:\Temp\Logs\Users_With_Attributes.csv" -NoTypeInformation -Encoding UTF8

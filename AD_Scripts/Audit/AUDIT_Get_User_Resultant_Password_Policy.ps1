@@ -1,0 +1,1 @@
+﻿Get-ADUserResultantPasswordPolicy -Identity a-petrina.ma

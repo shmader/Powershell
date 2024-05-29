@@ -1,0 +1,1 @@
+﻿(Get-ADUser -filter *).count 
