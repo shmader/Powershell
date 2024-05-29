@@ -1,0 +1,1 @@
+﻿Expand-Archive -LiteralPath C:\Temp\NT_AOV_Profile_Deploy_NEW_2022.zip -DestinationPath C:\Temp\

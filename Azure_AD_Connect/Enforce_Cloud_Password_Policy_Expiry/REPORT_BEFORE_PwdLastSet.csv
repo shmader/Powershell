@@ -1,0 +1,42 @@
+﻿DisplayName,UserPrincipalName,DirSyncEnabled,PasswordPolicies,AccountEnabled,LastPasswordChangeTimestamp
+On-Premises Directory Synchronization Service Account,Sync_AD2_ff6a4ef7f865@novicktech.onmicrosoft.com,,DisablePasswordExpiration,TRUE,11/18/2019 19:47
+zohotest1,zohotest1@novick.tech,,,TRUE,3/10/2020 16:05
+HCFP Treasurer,treasurer@novicktech.onmicrosoft.com,,,TRUE,3/14/2020 22:23
+HCFP Info,infohcfp@novicktech.onmicrosoft.com,,,TRUE,3/14/2020 22:23
+HCP Social Media,socialmedia@novicktech.onmicrosoft.com,,,TRUE,3/14/2020 22:24
+Hancock County Food Pantry,HancockCountyFoodPantry@novicktech.onmicrosoft.com,,,TRUE,3/18/2020 15:12
+Novick Tech,NovickTech@novicktech.onmicrosoft.com,,,TRUE,3/20/2020 13:25
+Avinash Setty,asetty_omnisite.com#EXT#@novicktech.onmicrosoft.com,,,TRUE,4/23/2020 11:46
+On-Premises Directory Synchronization Service Account,Sync_MISC1_db8091056496@novicktech.onmicrosoft.com,TRUE,DisablePasswordExpiration,TRUE,5/13/2020 19:51
+Brian Scott,brian@Novick.Tech,TRUE,DisablePasswordExpiration,TRUE,5/31/2020 2:55
+Steve Gibson,sgibson_ahhe.com#EXT#@novicktech.onmicrosoft.com,,,TRUE,8/12/2020 17:41
+Erwin Bolando,Erwin@Novick.Tech,TRUE,DisablePasswordExpiration,TRUE,9/2/2020 15:15
+1776Arms.com Orders,orders@novicktech.onmicrosoft.com,,,TRUE,9/11/2020 14:14
+Jump Cloud,jctest.user1@novick.tech,TRUE,DisablePasswordExpiration,TRUE,9/17/2020 15:43
+Jordan,jordan@1776arms.com,,None,TRUE,10/4/2020 0:09
+relay,relay@novick.tech,,DisablePasswordExpiration,TRUE,11/4/2020 21:18
+Tenant Admin,admin@novicktech.onmicrosoft.com,,,TRUE,12/5/2020 21:19
+Erwin Admin,erwin_admin@novicktech.onmicrosoft.com,,None,TRUE,12/8/2020 13:24
+Support,support@novick.tech,,None,TRUE,12/11/2020 13:25
+HCFP Secretary,secretary@novicktech.onmicrosoft.com,,None,TRUE,1/1/2021 23:17
+Alert Monitoring,alert_monitoring@novicktech.onmicrosoft.com,,,TRUE,3/17/2021 14:51
+IT_Signups,it@novicktech.onmicrosoft.com,,,TRUE,3/17/2021 14:52
+info,info@novicktech.onmicrosoft.com,,,TRUE,3/17/2021 16:53
+tkpoole,tkpoole_rcdd.co#EXT#@novicktech.onmicrosoft.com,,,TRUE,3/24/2021 19:29
+cad,cad_techdyn.net#EXT#@novicktech.onmicrosoft.com,,,TRUE,3/24/2021 19:29
+Jen Admin,jen_admin@novicktech.onmicrosoft.com,,,TRUE,5/28/2021 16:44
+Shelby Admin,shelby_admin@novicktech.onmicrosoft.com,,None,TRUE,6/3/2021 13:23
+Jennefer Cruz,jennefer@novick.tech,TRUE,DisablePasswordExpiration,TRUE,7/26/2021 20:06
+Sam,sam@1776arms.com,,None,TRUE,8/20/2021 12:19
+Pierce Kuhl,pierce@1776arms.com,TRUE,DisablePasswordExpiration,TRUE,9/13/2021 14:47
+FVTPL,fvtpl@novick.tech,,None,TRUE,4/15/2022 16:59
+test.user1,test.user1@Novick.Tech,TRUE,DisablePasswordExpiration,TRUE,4/21/2022 18:21
+Daniel Hawkins,Daniel@novick.tech,TRUE,DisablePasswordExpiration,TRUE,6/1/2022 13:52
+Shelby Mader,Shelby@novick.tech,TRUE,DisablePasswordExpiration,TRUE,6/2/2022 16:43
+Daniel Hawkins,daniel_admin@novicktech.onmicrosoft.com,,None,TRUE,6/6/2022 14:34
+Paulo Don,Paulo@novick.tech,TRUE,DisablePasswordExpiration,TRUE,6/21/2022 12:40
+Test OneDrive,testonedrive@novick.tech,TRUE,DisablePasswordExpiration,TRUE,6/23/2022 16:16
+HCFP IT,ithcfp@novicktech.onmicrosoft.com,,None,TRUE,8/24/2022 14:18
+Name Modify,name.modify@novick.tech,TRUE,DisablePasswordExpiration,TRUE,9/12/2022 12:40
+HCFP President,president@novicktech.onmicrosoft.com,,,TRUE,10/11/2022 14:16
+S. Jordan Novick,jordan@novick.tech,TRUE,DisablePasswordExpiration,TRUE,10/12/2022 12:58
