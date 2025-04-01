@@ -29,7 +29,7 @@ param (
  
 #Parameters
 $ClientID = "b92a23bb-7e91-4a93-861a-96cbe4101dbb"
-$ClientSecret = "XYT7Q~YaVAKPQDhPWy2C5_f.3BsOt1c5mR0wV"
+$ClientSecret = "REDACTED"
 $TenantName = "novicktech.onmicrosoft.com"
 $GraphUrl = "https://graph.microsoft.com/v1.0/reports/getSharePointSiteUsageDetail(period='D30')"
  
