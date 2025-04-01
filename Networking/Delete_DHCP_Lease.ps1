@@ -1,0 +1,1 @@
+﻿Remove-DhcpServerv4Lease -ComputerName "dc1.novick.tech" -ScopeId 10.1.1.0

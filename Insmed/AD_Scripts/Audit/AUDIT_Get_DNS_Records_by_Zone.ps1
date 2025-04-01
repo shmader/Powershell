@@ -1,0 +1,1 @@
+﻿Get-DnsServerResourceRecord -ZoneName "insmed.local" | export-csv c:\temp\dnsrecords_timestamp.csv

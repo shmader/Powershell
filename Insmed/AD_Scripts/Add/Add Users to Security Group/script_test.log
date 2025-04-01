@@ -1,0 +1,176 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20230424163631
+Username: INSMED\a-Shelby.Mader
+RunAs User: INSMED\a-Shelby.Mader
+Configuration Name: 
+Machine: INS700DC01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+Process ID: 17724
+PSVersion: 5.1.17763.3770
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.3770
+BuildVersion: 10.0.17763.3770
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\script_test.log
+PS C:\Windows\system32> # Start transcript
+Start-Transcript -Path "C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\script_test.log" -Append
+
+# Import the data from CSV file and assign it to variable
+$Users = Import-Csv "C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\test_script.csv"
+
+foreach ($User in $Users) {
+    
+    # Retrieve UPN
+    $UPN = $User.UserPrincipalName
+
+     # Retrieve UPN related SamAccountName
+    $ADUser = Get-ADUser -Filter "UserPrincipalName -eq '$UPN'" | 
+    Set-ADUser -Clear description 
+    }
+Transcript started, output file is C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\script_test.log
+PS C:\Windows\system32> # Import the data from CSV file and assign it to variable
+$Users = Import-Csv "C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\test_script.csv"
+
+foreach ($User in $Users) {
+    
+    # Retrieve UPN
+    $UPN = $User.UserPrincipalName
+
+     # Retrieve UPN related SamAccountName
+    $ADUser = Get-ADUser -Filter "UserPrincipalName -eq '$UPN'" | 
+    Set-ADUser -Clear description 
+    }
+
+PS C:\Windows\system32> foreach ($User in $Users) {
+    
+    # Retrieve UPN
+    $UPN = $User.UserPrincipalName
+
+     # Retrieve UPN related SamAccountName
+    $ADUser = Get-ADUser -Filter "UserPrincipalName -eq '$UPN'" | Set-ADUser -Clear description 
+    }
+
+PS C:\Windows\system32> foreach($aduser in (Import-Csv C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\test_script.csv)){
+    Get-ADUser -filter -Filter "UserPrincipalName -eq '$($aduser.UserPrinicpalName)'" |
+    Set-ADUser -Clear description 
+}
+>> TerminatingError(Import-Csv): "Cannot bind parameter 'Delimiter'. Cannot convert value "Users" to type "System.Char". Error: "String must be exactly one character long.""
+Import-Csv : Cannot bind parameter 'Delimiter'. Cannot convert value "Users" to type "System.Char". Error: "String must 
+be exactly one character long."
+At line:1 char:67
++ ... duser in (Import-Csv C:\temp\Scripts\AD_Scripts\Add\Add Users to Secu ...
++                                                             ~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Import-Csv], ParameterBindingException
+    + FullyQualifiedErrorId : CannotConvertArgumentNoMessage,Microsoft.PowerShell.Commands.ImportCsvCommand
+Import-Csv : Cannot bind parameter 'Delimiter'. Cannot convert value "Users" to type "System.Char". Error: "String must be exactly one character long."
+At line:1 char:67
++ ... duser in (Import-Csv C:\temp\Scripts\AD_Scripts\Add\Add Users to Secu ...
++                                                             ~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Import-Csv], ParameterBindingException
+    + FullyQualifiedErrorId : CannotConvertArgumentNoMessage,Microsoft.PowerShell.Commands.ImportCsvCommand
+
+PS C:\Windows\system32> foreach($aduser in (Import-Csv "C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\test_script.csv")){
+    Get-ADUser -filter -Filter "UserPrincipalName -eq '$($aduser.UserPrinicpalName)'" |
+    Set-ADUser -Clear description 
+}
+PS C:\Windows\system32> TerminatingError(Get-ADUser): "Missing an argument for parameter 'Filter'. Specify a parameter of type 'System.String' and try again."
+Get-ADUser : Missing an argument for parameter 'Filter'. Specify a parameter of type 'System.String' and try again.
+At line:2 char:16
++     Get-ADUser -filter -Filter "UserPrincipalName -eq '$($aduser.User ...
++                ~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Get-ADUser], ParameterBindingException
+    + FullyQualifiedErrorId : MissingArgument,Microsoft.ActiveDirectory.Management.Commands.GetADUser
+Get-ADUser : Missing an argument for parameter 'Filter'. Specify a parameter of type 'System.String' and try again.
+At line:2 char:16
++     Get-ADUser -filter -Filter "UserPrincipalName -eq '$($aduser.User ...
++                ~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Get-ADUser], ParameterBindingException
+    + FullyQualifiedErrorId : MissingArgument,Microsoft.ActiveDirectory.Management.Commands.GetADUser
+
+PS C:\Windows\system32> foreach($aduser in (Import-Csv "C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\test_script.csv")){
+    Get-ADUser -Filter "UserPrincipalName -eq '$($aduser.UserPrinicpalName)'" |
+    Set-ADUser -Clear description 
+}
+PS C:\Windows\system32> TerminatingError(Get-ADUser): "The search filter cannot be recognized"
+Get-ADUser : The search filter cannot be recognized
+At line:2 char:5
++     Get-ADUser -Filter "UserPrincipalName -eq '$($aduser.UserPrinicpa ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [Get-ADUser], ADException
+    + FullyQualifiedErrorId : ActiveDirectoryServer:8254,Microsoft.ActiveDirectory.Management.Commands.GetADUser
+Get-ADUser : The search filter cannot be recognized
+At line:2 char:5
++     Get-ADUser -Filter "UserPrincipalName -eq '$($aduser.UserPrinicpa ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [Get-ADUser], ADException
+    + FullyQualifiedErrorId : ActiveDirectoryServer:8254,Microsoft.ActiveDirectory.Management.Commands.GetADUser
+
+PS C:\Windows\system32> foreach ($User in $Users) {
+    
+    # Retrieve UPN
+    $UPN = $User.UserPrincipalName
+
+     # Retrieve UPN related SamAccountName
+    $ADUser = Get-ADUser -Filter "UserPrincipalName -eq '$UPN'" | Set-ADUser -Clear description 
+    }
+
+PS C:\Windows\system32> # Import the data from CSV file and assign it to variable
+$Users = Import-Csv "C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\test_script.csv"
+
+foreach ($User in $Users) {
+    
+    # Retrieve UPN
+    $UPN = $User.UserPrincipalName
+
+     # Retrieve UPN related SamAccountName
+    $ADUser = Get-ADUser -Filter "UserPrincipalName -eq '$UPN'" | Set-ADUser -Clear description 
+    }
+
+
+PS C:\Windows\system32> Import-Module ActiveDirectory
+
+# Import the data from CSV file and assign it to variable
+$Users = Import-Csv "C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\test_script.csv"
+
+foreach ($User in $Users) {
+    
+    # Retrieve UPN
+    $UPN = $User.UserPrincipalName
+
+     # Retrieve UPN related SamAccountName
+    $ADUser = Get-ADUser -Filter "UserPrincipalName -eq '$UPN'" | Set-ADUser -Clear description 
+    }
+
+PS C:\Windows\system32> Import-Module ActiveDirectory
+
+# Import the data from CSV file and assign it to variable
+$Users = Import-Csv "C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\test_script.csv"
+
+foreach ($User in $Users) {
+    
+    # Retrieve UPN
+    $UPN = $User.UserPrincipalName
+
+     # Retrieve UPN related SamAccountName
+    $ADUser = Get-ADUser -Filter "UserPrincipalName -eq '$UPN'" | Set-ADUser -Clear description 
+    }
+
+PS C:\Windows\system32> Import-Module ActiveDirectory
+
+# Import the data from CSV file and assign it to variable
+$Users = Import-Csv "C:\temp\Scripts\AD_Scripts\Add\Add Users to Security Group\test_script.csv"
+
+foreach ($User in $Users) {
+    
+    # Retrieve UPN
+    $UPN = $User.UserPrincipalName
+
+     # Retrieve UPN related SamAccountName
+    $ADUser = Get-ADUser -Filter "UserPrincipalName -eq '$UPN'" | Set-ADUser -Clear description 
+    }
+

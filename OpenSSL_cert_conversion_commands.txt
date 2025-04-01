@@ -1,0 +1,15 @@
+Zebra Certificate Convert Commands from SO8347.pdf (Marty's doc)
+and
+https://www.xolphin.com/support/Certificate_conversions/Convert_pfx_file_to_pem_file
+
+Convert client cert from PFX to PEM
+
+
+# Extract just the private key from a PFX, output to a PEM file
+# openssl pkcs12 -in filename.pfx -nocerts -out key.pem
+
+# Extract just the certificate from a PFX, output to a PEM file
+# openssl pkcs12 -in filename.pfx -clcerts -nokeys -out cert.pem
+
+# Removing the password from an extracted private key
+# openssl rsa -in key.pem -out server.key 

@@ -1,0 +1,50 @@
+﻿id,displayName,groupType,membershipType,source,mail,securityEnabled,mailEnabled,isAssignableToRole,onPremisesSyncEnabled
+020e03e8-ea82-4a39-8183-3042c4e67601,nt_cq_sales,Security,Assigned,Cloud,,TRUE,FALSE,FALSE,
+0fa754fa-b80f-4800-8012-7c4f8ed4a9ce,AHHE M365 Migration,Microsoft 365,Assigned,Cloud,AHHEM365Migration@novicktech.onmicrosoft.com,FALSE,TRUE,FALSE,
+16be9712-c482-49d8-ad4b-655ff1c75d40,gMSA-Test-Group,Security,Assigned,Windows server AD,,TRUE,FALSE,FALSE,TRUE
+178661f3-d20f-48a2-a170-dcc77ce05d11,BIGI Website,Microsoft 365,Assigned,Cloud,BIGIWebsite@novicktech.onmicrosoft.com,FALSE,TRUE,FALSE,
+198d6efe-6935-4d32-bfa5-8c9c4149a627,VeritasEMOD_Standard Admin,Security,Assigned,Windows server AD,,TRUE,FALSE,FALSE,TRUE
+1ee5235c-bb65-4f02-aa4f-d56e2b49af34,SalesAgents,Security,Assigned,Cloud,,TRUE,FALSE,FALSE,
+25b17b30-b924-49a7-9db7-77568b271d7d,Starting_Point_Computer_Test,Security,Assigned,Cloud,,TRUE,FALSE,FALSE,
+2a2e48e9-2c69-45a8-a28b-19e42e3f0f6e,AADC_Sync_Users,Security,Assigned,Windows server AD,,TRUE,FALSE,FALSE,TRUE
+2b53d8d6-5fb4-4c5d-a2de-5d62cf5d471d,AdminAgents,Security,Assigned,Cloud,,TRUE,FALSE,FALSE,
+302619e3-bf55-4ddb-b3e6-26578db6aaf4,AOV_VPN_Users,Security,Assigned,Cloud,,TRUE,FALSE,FALSE,
+39807dec-24f5-4277-bfc3-3031d5cca5cd,Servers_All,Security,Assigned,Windows server AD,,TRUE,FALSE,FALSE,TRUE
+41f9c9c9-bb51-44f2-b3d1-870dbb5bba62,nt_emergency_support,Distribution,Assigned,Cloud,emergencysupport@novick.tech,FALSE,TRUE,FALSE,
+44175804-006f-4a88-80f1-35e57f847ec6,Novick Tech Daily Tasks,Microsoft 365,Assigned,Cloud,NovickTechDailyTasks@novicktech.onmicrosoft.com,FALSE,TRUE,FALSE,
+45af662e-cff8-4e63-bc0c-315a98d33af6,scep_group,Security,Assigned,Cloud,,TRUE,FALSE,FALSE,
+4ca09780-d0b1-4f63-84d2-fd2ce15e359e,VeritasEMOD_Enrollment Services,Security,Assigned,Windows server AD,,TRUE,FALSE,FALSE,TRUE
+4dc634d4-700f-4243-9cfd-6bad270783ea,nt_voicemail,Mail enabled security,Assigned,Cloud,voicemail@novick.tech,TRUE,TRUE,FALSE,
+4f5a5ae8-1fdf-4424-a1a2-9700edb707e7,Technical,Microsoft 365,Assigned,Cloud,Technical@novicktech.onmicrosoft.com,FALSE,TRUE,FALSE,
+57f72074-dbf7-4424-b9e8-00f8f2fd36f2,PPME_Users,Security,Assigned,Windows server AD,,TRUE,FALSE,FALSE,TRUE
+63f88450-a400-4f61-9bad-44f768c7e85d,Network Diagram,Microsoft 365,Assigned,Cloud,NetworkDiagram@novicktech.onmicrosoft.com,FALSE,TRUE,FALSE,
+68786840-fb8d-4739-8b1f-04a8bd369334,1776Arms,Microsoft 365,Assigned,Cloud,1776Arms@novicktech.onmicrosoft.com,FALSE,TRUE,FALSE,
+73267b60-eae5-428c-a19b-99da8cb1ce44,NT_GPO_Autoenroll_Computers,Security,Assigned,Windows server AD,,TRUE,FALSE,FALSE,TRUE
+77d29864-18a8-4bb8-a6cd-b986347c2096,1776A,Microsoft 365,Assigned,Cloud,1776A@novicktech.onmicrosoft.com,FALSE,TRUE,FALSE,
+7d21a5bc-a886-4903-8d48-7fa0d654f1b7,Servers_Foo,Security,Assigned,Windows server AD,,TRUE,FALSE,FALSE,TRUE
+800afffa-1ed2-4b58-b354-dce789a434c6,AHHE - On Boarding,Microsoft 365,Assigned,Cloud,AHHE-OnBoarding@novicktech.onmicrosoft.com,FALSE,TRUE,FALSE,
+843c6fea-d4e4-4b3e-b5c5-6f40f9f84019,Servers_RDP,Security,Assigned,Windows server AD,,TRUE,FALSE,FALSE,TRUE
+8a86cb1a-8b87-442c-9b71-30d4a81b041d,Starting_Point_User_Test,Security,Assigned,Cloud,,TRUE,FALSE,FALSE,
+8b171e56-75f3-492e-85bb-0a0ae82dab3e,nt_aa_support,Security,Assigned,Cloud,,TRUE,FALSE,FALSE,
+93f9f783-3cde-484e-ba29-2fc343371f90,SSPR,Security,Assigned,Cloud,,TRUE,FALSE,FALSE,
+98414a40-0056-4fc2-8ae9-9e3e4c98e348,NT_GPO_Autoenroll_Users,Security,Assigned,Windows server AD,,TRUE,FALSE,FALSE,TRUE
+a164dbd8-550a-416d-a2fc-0ec6891a55f9,PPME_Admins,Security,Assigned,Windows server AD,,TRUE,FALSE,FALSE,TRUE
+a232974d-62c4-4c1a-971d-069f89c572bd,All Company,Microsoft 365,Assigned,Cloud,AllCompany.10458062848.kewdfnus@novicktech.onmicrosoft.com,FALSE,TRUE,FALSE,
+a5cf6eca-bfee-4fe7-ac33-75a254b212f4,Marketing,Microsoft 365,Assigned,Cloud,Marketing@novicktech.onmicrosoft.com,FALSE,TRUE,FALSE,
+af612b6a-6143-4068-be6f-da7e9ae49f76,_alias_admin@1776arms.com,Distribution,Assigned,Cloud,admin@1776arms.com,FALSE,TRUE,FALSE,
+b35d55ef-8427-47e5-b000-c927d1293d6a,TeamsAdmin,Security,Assigned,Cloud,,TRUE,FALSE,FALSE,
+b42ac4a4-12d7-49fe-9d5c-9fa576e6faa8,Novick Tech,Microsoft 365,Assigned,Cloud,General@novick.tech,FALSE,TRUE,FALSE,
+b4e55652-ac29-48b8-aa0c-05819a9b361f,_alias_HCFP_Volunteer_Slots_all,Distribution,Assigned,Cloud,volunteer1@novicktech.onmicrosoft.com,FALSE,TRUE,FALSE,
+b6749fef-6d60-490b-8c69-66a144c03c9a,nt_aa_sales,Security,Assigned,Cloud,,TRUE,FALSE,FALSE,
+c2122d10-cf3c-469c-9ccc-dda0818f2a1b,Consulting Projects,Microsoft 365,Assigned,Cloud,ConsultingProjects@novick.tech,FALSE,TRUE,FALSE,
+cac90ba3-a0e3-4958-8119-c1ae244ed3bf,Test,Microsoft 365,Assigned,Cloud,Test@novicktech.onmicrosoft.com,FALSE,TRUE,FALSE,
+d3fe7248-9c49-452a-aa2f-95c9e87b4ba4,PPME_Universal_Group,Security,Assigned,Windows server AD,,TRUE,FALSE,FALSE,TRUE
+d8ff6e16-c6a9-440d-bf98-29a53c2a1311,nt_cq_support,Security,Assigned,Cloud,,TRUE,FALSE,FALSE,
+e346d447-3060-4455-bbf4-29042a8257c8,Fortigate 60E Config Fortville Library,Microsoft 365,Assigned,Cloud,Fortigate60EConfigFortvilleLibrary@novicktech.onmicrosoft.com,FALSE,TRUE,FALSE,
+e64dfd11-882b-404c-a38d-a6acc060d303,PPME_Technicians,Security,Assigned,Windows server AD,,TRUE,FALSE,FALSE,TRUE
+ea18dca9-6b1b-46bb-a525-e34982a90131,VeritasEMOD_Staging_Standard Admin,Security,Assigned,Windows server AD,,TRUE,FALSE,FALSE,TRUE
+f19aed09-9f9c-4cff-8ece-fe5b33515a7c,HelpdeskAgents,Security,Assigned,Cloud,,TRUE,FALSE,FALSE,
+f49d0da0-b2c8-4c58-bae8-fb8faf3b7fea,Projects & Tasks Tracking,Microsoft 365,Assigned,Cloud,ProjectsTasksTracking@novicktech.onmicrosoft.com,FALSE,TRUE,FALSE,
+f8f2546a-62b5-4319-a6dd-877ff6a081a8,NT-Uptime,Microsoft 365,Assigned,Cloud,NT-Uptime@novicktech.onmicrosoft.com,FALSE,TRUE,FALSE,
+fde0b25e-72e0-4d6e-a542-6fe6208037b0,AOV_VPN_Device,Security,Assigned,Cloud,,TRUE,FALSE,FALSE,
+ffaaac53-95b2-4daf-9ea9-5cf136dca588,VeritasEMOD_Staging_Enrollment Services,Security,Assigned,Windows server AD,,TRUE,FALSE,FALSE,TRUE

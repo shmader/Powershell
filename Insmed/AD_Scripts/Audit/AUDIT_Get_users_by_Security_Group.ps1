@@ -1,0 +1,2 @@
+﻿$ExportPath = 'C:\temp\AD_Reports\Zscaler_Groups\Zscaler - Commercial Operations - Commerical Management - EU.csv'
+Get-ADGroupMember -Identity "Zscaler - Commercial Operations - Commerical Management - EU" | Select Name | Export-Csv -NoType $ExportPath
